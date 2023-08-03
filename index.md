@@ -4,10 +4,6 @@ So you've joined PES, and you're all geared up for starting a beautiful 4-year j
 
 Also, the guide is a work in progress, so there will be more things added. Stay tuned!
 
-!!!warning  
-Contents of this guide have been derived from what our batch (2026 batch) had in first year. Things might change for your batch, for example, the number of ISAs.
-!!!
-
 ---
 
 ## TABLE OF CONTENTS
@@ -59,11 +55,18 @@ This is the most important section of this guide, so read each and every bit.
 ***
 
 ### CLASSES
-Here's the timetable for majority of the days:
+Here's the timetable for majority of the days (updated today):
+* For all UG Programs in Engineering, Architecture,Design and Performing Arts
 
-|      1      |       2      |     Break     |       3       |       4       |     Lunch     |       5       |       6       |
-|-------------|--------------|---------------|---------------|---------------|---------------|---------------|---------------|
-| 8:15 - 9:15 | 9:15 - 10:15 | 10:15 - 10:45 | 10:45 - 11:45 | 11:45 - 12:45 | 12:45 - 13:30 | 13:30 - 14:30 | 14:30 - 15:30 |
+|      1      |      2      |       3      |     Break     |       4       |       5       |       6       |  Lunch Break  |       7       |       8       |       9       |
+|:-----------:|:-----------:|:------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+| 8:00 - 8:45 | 8:45 - 9:30 | 9:30 - 10:15 | 10:15 - 10:45 | 10:45 - 11:30 | 11:30 - 12:15 | 12:15 - 13:00 | 13:00 - 13:45 | 13:45 - 14:15 | 14:15 - 15:00 | 15:00 - 15:45 |
+
+* For all other UG Programs
+
+|      1      |       2      |       3       |     Break     |       4       |       5      |       6      |  Lunch Break  |       7       |       8       |       9       |
+|:-----------:|:------------:|:-------------:|:-------------:|:-------------:|:------------:|:------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+| 8:45 - 9:30 | 9:30 - 10:15 | 10:15 - 11:00 | 11:00 - 11:30 | 11:30 - 12:15 | 12:15 - 1:00 | 1:00 - 13:45 | 13:45 - 14:30 | 14:30 - 15:15 | 15:15 - 16:00 | 16:00 - 16:45 |
 
 In the first hour, there is a pardon of upto 10 minutes, which means you will be allowed into the class until 8:25, after which you might be allowed into the class but without attendance. No pardon for classes after breaks.
 
@@ -162,7 +165,6 @@ Social links:
 * [PES '27 batch Discord Server](https://dsc.gg/pes27)
 * [Reddit Community](https://reddit.com/r/PESU)
 * [PESU FAQs](https://bit.ly/pesu-faq)
-* [PES '27 WhatsApp Group](https://chat.whatsapp.com/IaRyX2hqqqVDGiTvskUDPV)
 
 ### Academic Links
 * [PESU Academy](https://www.pesuacademy.com/)
