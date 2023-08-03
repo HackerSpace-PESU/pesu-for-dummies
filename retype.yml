@@ -1,0 +1,11 @@
+input: .
+output: .retype
+url: # Add your website address here
+branding:
+  title: The Ultimate Guide to PES
+  label: Guide
+links:
+- text: Table of Contents
+  link: /#table-of-contents
+footer:
+  copyright: "&copy; Copyright {{ year }}, HackerSpace PESU. All rights reserved."
