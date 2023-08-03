@@ -20,6 +20,9 @@ Also, the guide is a work in progress, so there will be more things added. Stay 
     + [The PRN and SRN](#the-prn-and-srn)
 + [The First Year](#the-first-year)
     + [The Course Content](#the-course-content)
++ [Special Mentions: The Cool Seniors](#special-mentions-the-cool-seniors)
++ [Other Useful Links](#other-useful-links)
+
 	
 
 ***
@@ -104,10 +107,9 @@ PRN (short for ) and SRN (short for ) are two unique IDs that are provided to yo
 ***
 ***
 
-### THE FIRST YEAR
+## THE FIRST YEAR
 As long as you're in the first year, you are a part of the Science and Humanities (S&H) department. All students have to study a set of common subjects, irrespective of branch, for two semesters. 
 
-***
 ***
 
 ### THE COURSE CONTENT
