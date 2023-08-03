@@ -21,6 +21,7 @@ Stuff in this guide is what our batch (2026 batch) had in first year. Things mig
     + [The PRN and SRN](#the-prn-and-srn)
 + [The First Year](#the-first-year)
     + [The Course Content](#the-course-content)
++ [The RR Campus]()
 + [Special Mentions: The Cool Seniors](#special-mentions-the-cool-seniors)
 + [Other Useful Links](#other-useful-links)
 
@@ -52,9 +53,12 @@ These are the people on the top of the PESU administration:
 ## GENERAL STUFF
 This is the most important section of this guide, so read each and every bit.
 
-### RULES
+### STUFF TO KNOW
 * ID Card is a must, no matter what else you bring. This is to ensure security in the campus. Also, should you forget to bring your ID Card, you can always show your profile in the PESU App to gain entry to the campus.
 * A minimum of 80 - 85% of attendance is necessary in every subject to be eligible to write the end sems. Did I say every subject? Yes, attendance is taken subject-wise in universities, not day-wise. Please do remember that.
+* You can roam around the campus. There is no restriction on that freedom. As long as you don't break any rules, that is.
+* Please do NOT use smartphones during classes. According to new rules, if you're caught, the SIM card and the memory card will be returned and the phone will not be returned till the end of the semester.
+* 
 
 ***
 
@@ -137,6 +141,34 @@ Students are divided into Physics and Chemistry cycles, usually based on alphabe
 * Electronic Principles and Devices (UEyyEC141x)
 * Engineering Statics - Mechanics (UEyyCV131x)
 * Constitution Of India , Cyber Law and Professional Ethics (ULyyCE111x)
+
+***
+***
+
+## THE RR CAMPUS
+The RR Campus is the main campus of PESU. It is also the biggest campus, in terms of infrastructure.
+
+### Notable Locations in and around RR Campus
+
+#### The MRD Block
+The MRD Block, also called as Silver Jubilee Block, is the main administrative block of this campus. All admissions and administration happens here.
+* **The Library:** It is on the first floor of the MRD Block, and has a large collection of academic books, and an e-library too. You can borrow textbooks from here, or read them in the library.
+* **MRD Auditorium:** An auditorium where most of the seminars and  orientations are conducted. It's got balcony seats too!
+
+***
+
+#### The GJB Block
+The GJB Block, short for Golden Jubilee Block, is the biggest and the most conspicuous block in the campus. It is currently under construction, but many amenities in it are already functional.
+* **Jag's Nest (Assessment Centre):** This is the assessment centre with 20 rooms full of computers, for conducting the PESSAT examinations, ISAs and ESAs. It is usually peaceful in here, but only until the exams are over!
+* **GJB Canteen:** The GJB Canteen is a spacious cafeteria, with a large seating capacity and aesthetic design. It is usually very crowded on a normal day. Prices are affordable, and cuisine varies from North Indian, South Indian, Chinese, chats, mocktails and desserts in here.
+* **Cafe Coffee Day:** Do I need to explain what's this? You wanna grab a quick coffee? Then this is your place!
+* **Two-storey Gym:** *content goes here*
+* **Basketball, Badminton and other courts:** Not yet functional, but are really breathtaking to see.
+
+***
+
+#### The BE Block
+This is the second tallest block in the campus, and has classrooms for various courses here. Engineering courses from second year have their classes in here. It has six elevators to serve 13 floors.
 
 ***
 ***
