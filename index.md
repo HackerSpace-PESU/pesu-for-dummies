@@ -1,33 +1,30 @@
-# The Ultimate Guide to PES
+# PESU Guidebook
 
 So you've joined PES, and you're all geared up for starting a beautiful 4-year journey in here. But then, you gotta know stuff about PES so that you won't wander around like a lost kid when you're on campus. Dont worry, this guide is specifically for that. Lessgo!
 
 Also, the guide is a work in progress, so there will be more things added. Stay tuned!
 
-!!!warning Disclaimer
-Stuff in this guide is what our batch (2026 batch) had in first year. Things might change for you batch, for example, the number of ISAs.
-!!!
-***
-***
+*⚠️ Warning:  Contents of this guide have been derived from what our batch (2026 batch) had in first year. Things might change for your batch, for example, the number of ISAs.*
+
+---
 
 ## TABLE OF CONTENTS
-+ [The Campuses](#the-campuses)
-+ [The Big Shots](#the-big-shots)
-+ [General Stuff](#general-stuff)
-	+ [Rules](#rules)
-	+ [Classes](#classes)
-	+ [Stuff you should have](#stuff-you-should-have)
-	+ [The Examination System](#the-examination-system)
-    + [The PRN and SRN](#the-prn-and-srn)
-+ [The First Year](#the-first-year)
-    + [The Course Content](#the-course-content)
-+ [Special Mentions: The Cool Seniors](#special-mentions-the-cool-seniors)
-+ [Other Useful Links](#other-useful-links)
+* [The Campuses](#the-campuses)
+* [The Big Shots](#the-big-shots)
+* [General Stuff](#general-stuff)
+	* [Rules](#rules)
+	* [Classes](#classes)
+	* [Stuff you should have](#stuff-you-should-have)
+	* [The Examination System](#the-examination-system)
+ 	* [The PRN and SRN](#the-prn-and-srn)
+* [The First Year](#the-first-year)
+* [The Course Content](#the-course-content)
+* [Special Mentions: The Cool Seniors](#special-mentions-the-cool-seniors)
+* [Other Useful Links](#other-useful-links)
 
 	
 
-***
-***
+---
 
 ## THE CAMPUSES
 There are three campuses of PESU:
@@ -37,17 +34,15 @@ There are three campuses of PESU:
 
 Out of these, the HN campus is the oldest the first ever campus of PES, the RR campus is the most developed, biggest and main campus, and EC campus is a rather spacious and peaceful one, with a planned medical college and hospital.
 
-***
-***
+---
 
 ## THE BIG SHOTS
 These are the people on the top of the PESU administration:
-* Prof. M R Doreswamy, Chancellor
-* Prof. Jawahar Doreswamy, Pro-Chancellor
-* *forgot the name*
+* Prof. M R Doreswamy - Chancellor
+* Prof. Jawahar Doreswamy - Pro-Chancellor
+* Dr. Suryaprasad J - Vice Chancellor
 
-***
-***
+---
 
 ## GENERAL STUFF
 This is the most important section of this guide, so read each and every bit.
@@ -60,8 +55,9 @@ This is the most important section of this guide, so read each and every bit.
 
 ### CLASSES
 Here's the timetable for majority of the days:
+
 |      1      |       2      |     Break     |       3       |       4       |     Lunch     |       5       |       6       |
-|:-----------:|:------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+|-------------|--------------|---------------|---------------|---------------|---------------|---------------|---------------|
 | 8:15 - 9:15 | 9:15 - 10:15 | 10:15 - 10:45 | 10:45 - 11:45 | 11:45 - 12:45 | 12:45 - 13:30 | 13:30 - 14:30 | 14:30 - 15:30 |
 
 In the first hour, there is a pardon of upto 10 minutes, which means you will be allowed into the class until 8:25, after which you might be allowed into the class but without attendance. No pardon for classes after breaks.
@@ -143,8 +139,8 @@ Students are divided into Physics and Chemistry cycles, usually based on alphabe
 
 ## SPECIAL MENTIONS: THE COOL SENIORS
 
-### THE LEGENDARY ROWLETT OWL
-No junior doesn't know about him. He is everywhere, on Reddit, on Discord and on WhatsApp, answering juniors' doubts and giving priceless life and academic advice. Bro is a (blah) in (idk), and spends his free time with us juniors, usually dropping in some anecdotes and old memories. You rock, Rowlett-senpai!!
+### THE LEGENDARY ROWLET OWL
+No junior doesn't know about him. He is everywhere, on Reddit, on Discord and on WhatsApp, answering juniors' doubts and giving priceless life and academic advice. Bro is a (blah) in (idk), and spends his free time with us juniors, usually dropping in some anecdotes and old memories. You rock, Rowlet-senpai!!
 Social links: 
 * [Reddit: r/rowlet-owl](https://www.reddit.com/user/rowlet-owl/)
 * [Discord: @rowletowl](https://discordapp.com/users/543143780925177857)
@@ -166,3 +162,8 @@ Social links:
 ### Academic Links
 * [PESU Academy](https://www.pesuacademy.com/)
 * [BetterPES Content Hub](https://better-pes.vercel.app/)
+
+### Contributors
+* Silicoflare
+* Kanishka Sahoo
+* [Icarus](https://icarus.tk)
