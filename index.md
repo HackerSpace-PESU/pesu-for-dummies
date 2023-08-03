@@ -5,7 +5,7 @@ So you've joined PES, and you're all geared up for starting a beautiful 4-year j
 Also, the guide is a work in progress, so there will be more things added. Stay tuned!
 
 !!!warning  
-	Contents of this guide have been derived from what our batch (2026 batch) had in first year. Things might change for your batch, for example, the number of ISAs.
+Contents of this guide have been derived from what our batch (2026 batch) had in first year. Things might change for your batch, for example, the number of ISAs.
 !!!
 
 ---
@@ -82,7 +82,7 @@ There are three types of examinations/tests held in PES:
 Normal assignments of around 20 marks, conducted in the class and written in blue books. 1 assignment is conducted for every unit, and the aggregate marks are considered for the final score.
 
 !!!info 
-	There are no lab exams for Physics or Chemistry. Only for C and Python.
+There are no lab exams for Physics or Chemistry. Only for C and Python.
 !!!
 
 #### ISA (Internal Semester Assessment)
