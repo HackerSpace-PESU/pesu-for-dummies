@@ -146,4 +146,6 @@ No junior doesn't know about him. He is everywhere, on Reddit, on Discord and on
 ***
 
 ##  OTHER USEFUL LINKS
-* [PESU Official Website]()
+* [PESU Official Website](https://pes.edu/)
+* [PESU Academy](https://www.pesuacademy.com/)
+* [BetterPES Content Hub](https://better-pes.vercel.app/)
