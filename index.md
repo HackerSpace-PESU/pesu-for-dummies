@@ -5,11 +5,12 @@ So you've joined PES, and you're all geared up for starting a beautiful 4-year j
 Also, the guide is a work in progress, so there will be more things added. Stay tuned!
 
 !!!warning Disclaimer
-	Stuff in this guide is what our batch (2026 batch) had in first year. Things might change for you batch, for example, the number of ISAs.
+Stuff in this guide is what our batch (2026 batch) had in first year. Things might change for you batch, for example, the number of ISAs.
+!!!
 ***
 ***
 
-**TABLE OF CONTENTS**
+## TABLE OF CONTENTS
 + [The Campuses](#the-campuses)
 + [The Big Shots](#the-big-shots)
 + [General Stuff](#general-stuff)
@@ -80,7 +81,8 @@ There are three types of examinations/tests held in PES:
 #### Class Assignments / Lab assignments
 Normal assignments of around 20 marks, conducted in the class and written in blue books. 1 assignment is conducted for every unit, and the aggregate marks are considered for the final score.
 !!!info
-	There are no lab exams for Physics or Chemistry. Only for C and Python.
+There are no lab exams for Physics or Chemistry. Only for C and Python.
+!!!
 
 #### ISA (Internal Semester Assessment)
 One of the most important assessments. Conducted in the assessment centre, it is a Computer-Based Test (CBT). 
@@ -159,7 +161,7 @@ Social links:
 * [PES '27 batch Discord Server](https://dsc.gg/pes27)
 * [Reddit Community](https://reddit.com/r/PESU)
 * [PESU FAQs](https://bit.ly/pesu-faq)
-* [PES '27 WhatsApp Group]()
+* [PES '27 WhatsApp Group](https://chat.whatsapp.com/IaRyX2hqqqVDGiTvskUDPV)
 
 ### Academic Links
 * [PESU Academy](https://www.pesuacademy.com/)
