@@ -67,7 +67,6 @@ In the first hour, there is a pardon of upto 10 minutes, which means you will be
 ### STUFF YOU SHOULD HAVE
 * A book for notes. A 5-subject spiral bound book is usually given by the university, so that's more than enough.
 * Blue Book: A thin, 16-page book (with an obvious blue paper bind) used to write assessments and other lab exams. Costs around ₹10 - ₹12, so buy atleast 2 for each subject.
-* 
 
 ***
 
@@ -76,9 +75,8 @@ There are three types of examinations/tests held in PES:
 
 #### Class Assignments / Lab assignments
 Normal assignments of around 20 marks, conducted in the class and written in blue books. 1 assignment is conducted for every unit, and the aggregate marks are considered for the final score.
-!!!info
-There are no lab exams for Physics or Chemistry. Only for C and Python.
-!!!
+
+ℹ️ There are no lab exams for Physics or Chemistry. Only for C and Python.
 
 #### ISA (Internal Semester Assessment)
 One of the most important assessments. Conducted in the assessment centre, it is a Computer-Based Test (CBT). 
