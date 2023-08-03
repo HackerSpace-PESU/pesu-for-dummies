@@ -1,10 +1,12 @@
-# PESU Guidebook
+# The Ultimate Guide to PESU
 
 So you've joined PES, and you're all geared up for starting a beautiful 4-year journey in here. But then, you gotta know stuff about PES so that you won't wander around like a lost kid when you're on campus. Dont worry, this guide is specifically for that. Lessgo!
 
 Also, the guide is a work in progress, so there will be more things added. Stay tuned!
 
-*⚠️ Warning:  Contents of this guide have been derived from what our batch (2026 batch) had in first year. Things might change for your batch, for example, the number of ISAs.*
+!!!warning  
+	Contents of this guide have been derived from what our batch (2026 batch) had in first year. Things might change for your batch, for example, the number of ISAs.
+!!!
 
 ---
 
@@ -79,7 +81,9 @@ There are three types of examinations/tests held in PES:
 #### Class Assignments / Lab assignments
 Normal assignments of around 20 marks, conducted in the class and written in blue books. 1 assignment is conducted for every unit, and the aggregate marks are considered for the final score.
 
-ℹ️ There are no lab exams for Physics or Chemistry. Only for C and Python.
+!!!info 
+	There are no lab exams for Physics or Chemistry. Only for C and Python.
+!!!
 
 #### ISA (Internal Semester Assessment)
 One of the most important assessments. Conducted in the assessment centre, it is a Computer-Based Test (CBT). 
