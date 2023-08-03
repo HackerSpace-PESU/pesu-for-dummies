@@ -139,13 +139,26 @@ Students are divided into Physics and Chemistry cycles, usually based on alphabe
 
 ## SPECIAL MENTIONS: THE COOL SENIORS
 
-### THE LEGENDARY OWL - Aditeya Baral
+### THE LEGENDARY ROWLETT OWL
 No junior doesn't know about him. He is everywhere, on Reddit, on Discord and on WhatsApp, answering juniors' doubts and giving priceless life and academic advice. Bro is a (blah) in (idk), and spends his free time with us juniors, usually dropping in some anecdotes and old memories. You rock, Rowlett-senpai!!
+Social links: 
+* [Reddit: r/rowlet-owl](https://www.reddit.com/user/rowlet-owl/)
+* [Discord: @rowletowl](https://discordapp.com/users/543143780925177857)
 
 ***
 ***
 
 ##  OTHER USEFUL LINKS
+### General Links
 * [PESU Official Website](https://pes.edu/)
+
+### Social Links
+* [Official PESU Discord server](https://discord.gg/pesu-discord-742797665301168220)
+* [PES '27 batch Discord Server](https://dsc.gg/pes27)
+* [Reddit Community](https://reddit.com/r/PESU)
+* [PESU FAQs](https://bit.ly/pesu-faq)
+* [PES '27 WhatsApp Group]()
+
+### Academic Links
 * [PESU Academy](https://www.pesuacademy.com/)
 * [BetterPES Content Hub](https://better-pes.vercel.app/)
