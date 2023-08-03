@@ -1,14 +1,12 @@
-# The Ultimate Guide to PES
+# PESU Guidebook
 
 So you've joined PES, and you're all geared up for starting a beautiful 4-year journey in here. But then, you gotta know stuff about PES so that you won't wander around like a lost kid when you're on campus. Dont worry, this guide is specifically for that. Lessgo!
 
 Also, the guide is a work in progress, so there will be more things added. Stay tuned!
 
-!!!warning Disclaimer
-Stuff in this guide is what our batch (2026 batch) had in first year. Things might change for you batch, for example, the number of ISAs.
-!!!
-***
-***
+*⚠️ Warning:  Contents of this guide have been derived from what our batch (2026 batch) had in first year. Things might change for your batch, for example, the number of ISAs.*
+
+---
 
 ## TABLE OF CONTENTS
 + [The Campuses](#the-campuses)
@@ -21,14 +19,12 @@ Stuff in this guide is what our batch (2026 batch) had in first year. Things mig
     + [The PRN and SRN](#the-prn-and-srn)
 + [The First Year](#the-first-year)
     + [The Course Content](#the-course-content)
-+ [The RR Campus]()
 + [Special Mentions: The Cool Seniors](#special-mentions-the-cool-seniors)
 + [Other Useful Links](#other-useful-links)
 
 	
 
-***
-***
+---
 
 ## THE CAMPUSES
 There are three campuses of PESU:
@@ -38,17 +34,15 @@ There are three campuses of PESU:
 
 Out of these, the HN campus is the oldest the first ever campus of PES, the RR campus is the most developed, biggest and main campus, and EC campus is a rather spacious and peaceful one, with a planned medical college and hospital.
 
-***
-***
+---
 
 ## THE BIG SHOTS
 These are the people on the top of the PESU administration:
-* Prof. M R Doreswamy, Chancellor
-* Prof. Jawahar Doreswamy, Pro-Chancellor
-* *forgot the name*
+* Prof. M R Doreswamy - Chancellor
+* Prof. Jawahar Doreswamy - Pro-Chancellor
+* Dr. Suryaprasad J - Vice Chancellor
 
-***
-***
+---
 
 ## GENERAL STUFF
 This is the most important section of this guide, so read each and every bit.
@@ -64,8 +58,9 @@ This is the most important section of this guide, so read each and every bit.
 
 ### CLASSES
 Here's the timetable for majority of the days:
+
 |      1      |       2      |     Break     |       3       |       4       |     Lunch     |       5       |       6       |
-|:-----------:|:------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+|-------------|--------------|---------------|---------------|---------------|---------------|---------------|---------------|
 | 8:15 - 9:15 | 9:15 - 10:15 | 10:15 - 10:45 | 10:45 - 11:45 | 11:45 - 12:45 | 12:45 - 13:30 | 13:30 - 14:30 | 14:30 - 15:30 |
 
 In the first hour, there is a pardon of upto 10 minutes, which means you will be allowed into the class until 8:25, after which you might be allowed into the class but without attendance. No pardon for classes after breaks.
@@ -75,7 +70,6 @@ In the first hour, there is a pardon of upto 10 minutes, which means you will be
 ### STUFF YOU SHOULD HAVE
 * A book for notes. A 5-subject spiral bound book is usually given by the university, so that's more than enough.
 * Blue Book: A thin, 16-page book (with an obvious blue paper bind) used to write assessments and other lab exams. Costs around ₹10 - ₹12, so buy atleast 2 for each subject.
-* 
 
 ***
 
@@ -84,9 +78,8 @@ There are three types of examinations/tests held in PES:
 
 #### Class Assignments / Lab assignments
 Normal assignments of around 20 marks, conducted in the class and written in blue books. 1 assignment is conducted for every unit, and the aggregate marks are considered for the final score.
-!!!info
-There are no lab exams for Physics or Chemistry. Only for C and Python.
-!!!
+
+ℹ️ There are no lab exams for Physics or Chemistry. Only for C and Python.
 
 #### ISA (Internal Semester Assessment)
 One of the most important assessments. Conducted in the assessment centre, it is a Computer-Based Test (CBT). 
@@ -147,8 +140,8 @@ Students are divided into Physics and Chemistry cycles, usually based on alphabe
 
 ## SPECIAL MENTIONS: THE COOL SENIORS
 
-### THE LEGENDARY ROWLETT OWL
-No junior doesn't know about him. He is everywhere, on Reddit, on Discord and on WhatsApp, answering juniors' doubts and giving priceless life and academic advice. Bro is a (blah) in (idk), and spends his free time with us juniors, usually dropping in some anecdotes and old memories. You rock, Rowlett-senpai!!
+### THE LEGENDARY ROWLET OWL
+No junior doesn't know about him. He is everywhere, on Reddit, on Discord and on WhatsApp, answering juniors' doubts and giving priceless life and academic advice. Bro is a (blah) in (idk), and spends his free time with us juniors, usually dropping in some anecdotes and old memories. You rock, Rowlet-senpai!!
 Social links: 
 * [Reddit: r/rowlet-owl](https://www.reddit.com/user/rowlet-owl/)
 * [Discord: @rowletowl](https://discordapp.com/users/543143780925177857)
