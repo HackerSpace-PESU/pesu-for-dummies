@@ -45,17 +45,17 @@ These are the people on the top of the PESU administration:
 ## GENERAL STUFF
 This is the most important section of this guide, so read each and every bit.
 
-### Stuff to Know
-* ID Card is a must, no matter what else you bring. This is to ensure security in the campus. Also, should you forget to bring your ID Card, you can always show your profile in the PESU App to gain entry to the campus.
+
+### STUFF TO KNOW
+* ID Card is a must, no matter what else you bring. This is to ensure security in the campus. Also, should you forget to bring your ID Card, you can always show your profile in the PESU App to gain entry to the campus. But you may be stopped and questioned in various places across campus.
 * A minimum of 80 - 85% of attendance is necessary in every subject to be eligible to write the end sems. Did I say every subject? Yes, attendance is taken subject-wise in universities, not day-wise. Please do remember that.
 * You can roam around the campus. There is no restriction on that freedom. As long as you don't break any rules, that is.
 * Please do NOT use smartphones during classes. According to new rules, if you're caught, the SIM card and the memory card will be returned and the phone will not be returned till the end of the semester.
-* 
 
 ***
 
-### Classes
-Here's the timetable for majority of the days (updated today):
+### CLASSES
+Here's the timetable for majority of the days:
 * For all UG Programs in Engineering, Architecture,Design and Performing Arts
 
 |      1      |      2      |       3      |     Break     |       4       |       5       |       6       |  Lunch Break  |       7       |       8       |       9       |
@@ -68,7 +68,7 @@ Here's the timetable for majority of the days (updated today):
 |:-----------:|:------------:|:-------------:|:-------------:|:-------------:|:------------:|:------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | 8:45 - 9:30 | 9:30 - 10:15 | 10:15 - 11:00 | 11:00 - 11:30 | 11:30 - 12:15 | 12:15 - 1:00 | 1:00 - 13:45 | 13:45 - 14:30 | 14:30 - 15:15 | 15:15 - 16:00 | 16:00 - 16:45 |
 
-In the first hour, there is a pardon of upto 10 minutes, which means you will be allowed into the class until 8:25, after which you might be allowed into the class but without attendance. No pardon for classes after breaks.
+In the first hour, there is a pardon of upto 10 minutes, which means you will be allowed into the class until 8:10, after which you might be allowed into the class but without attendance. No pardon for classes after breaks.
 
 ***
 
@@ -85,12 +85,12 @@ There are three types of examinations/tests held in PES:
 Normal assignments of around 20 marks, conducted in the class and written in blue books. 1 assignment is conducted for every unit, and the aggregate marks are considered for the final score.
 
 !!!info 
-There are no lab exams for Physics or Chemistry. Only for C and Python.
+There are no lab exams for Physics or Chemistry. Only for C and Python. In Physics, however, there may be a 30-mark lab MCQ.
 !!!
 
 #### ISA (Internal Semester Assessment)
 One of the most important assessments. Conducted in the assessment centre, it is a Computer-Based Test (CBT). 
-* There is 1 ISA per unit, and is for 20 marks, for 30 minutes.
+* There are 2 ISAs each having 2 units, and are for 20 marks, for 30 minutes.
 * The timetable will be sent a week before, and the seating allotment is shown in the app on the day of the respective exam.
 * Majority of the questions are MCQs and some of them are descriptive, for which the answers should be typed in the PC.
 * A rough sheet will be given for calculations.
@@ -101,7 +101,8 @@ One of the most important assessments. Conducted in the assessment centre, it is
 * Written in the assessment centres, and seating allotment is given. Spans for 3 hours.
 * Completely descriptive. You will be given an answer booklet for the exam. 
 * The questions are displayed on the PC, and you can either write the answers or type the answers.
-* You can't leave the exam hall after 45 mins of start of exam, and before 10 mins of end of exam.
+* You can use a combination of both, for example type out an answer and draw a diagram.
+* You can't leave the exam hall in the first 45 minutes, and the last 10 minutes of the exam.
 
 ***
 

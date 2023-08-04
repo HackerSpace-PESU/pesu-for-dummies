@@ -9,6 +9,7 @@ The RR Campus is the biggest campus of PESU, in terms of infrastructure.
 
 ### The MRD Block
 The MRD Block, also called as Silver Jubilee Block, is the main administrative block of this campus. All admissions and administration happens here.
+
 #### The Library 
 It is on the first floor of the MRD Block, and has a large collection of academic books, and an e-library too. You can borrow textbooks from here, or read them in the library.
 
@@ -39,6 +40,7 @@ Not yet functional, but are really breathtaking to see.
 
 ### The BE Block
 This is the second tallest block in the campus, and has classrooms for various courses here. Engineering courses from second year have their classes in here. It has six elevators to serve 13 floors.
+
 #### 13th Floor Cafeteria
 On the topmost floor, there is an open-air cafeteria with vegetarian and non-vegetarian stuff. Decent seating capacity, too.
 
@@ -57,7 +59,7 @@ Opposite to the entrance of BE Block lie 4 shops, three of them being small bake
 ***
 
 ### The F Block
-The F Block, also called as Panini Block, is the oldest block of the campus. This is where the first years of BTech start their PESU life. It has 8 floors, and two elevators. Every floor has a boys' and a girls' washroom. There are labs on many floors too.
+The F Block, also called as Panini Block, is the oldest block of the campus. This is where the first years of BTech start their PESU life. It has 8 floors, and two elevators. Every floor has a boys' and a girls' washroom. There are labs on many floors too. The elevators have a long wait time during rush hours, and it may be advisable to use the stairs if you're running late.
 
 ***
 
@@ -77,4 +79,4 @@ Slightly away from the boys' hostel, it used to be open to all, but now is stric
 ***
 
 ### Sutta Gully
-There is no student in PES RR Campus who hasn't visited the Sutta Gully ever in their time in PESU. Just a few metres walk away from the campus, it has shops selling some of the best food you can think of. Examples include: 99 Variety Dosas, Shawarma Rolls, Momos, Kathi Rolls, Fruit juices and milkshakes, and some of the best stuff you could think of.
+There is no student in PES RR Campus who hasn't visited the Sutta Gully ever in their time in PESU. Just a few hundred metres walk away from the campus, it has shops selling some of the best food you can think of. Examples include: 99 Variety Dosas, Shawarma Rolls, Momos, Kathi Rolls, Vada Pav, Fruit juices and milkshakes, and some of the best stuff you could think of.
