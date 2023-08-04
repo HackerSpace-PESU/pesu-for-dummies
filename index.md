@@ -45,7 +45,7 @@ These are the people on the top of the PESU administration:
 ## GENERAL STUFF
 This is the most important section of this guide, so read each and every bit.
 
-### STUFF TO KNOW
+### Stuff to Know
 * ID Card is a must, no matter what else you bring. This is to ensure security in the campus. Also, should you forget to bring your ID Card, you can always show your profile in the PESU App to gain entry to the campus.
 * A minimum of 80 - 85% of attendance is necessary in every subject to be eligible to write the end sems. Did I say every subject? Yes, attendance is taken subject-wise in universities, not day-wise. Please do remember that.
 * You can roam around the campus. There is no restriction on that freedom. As long as you don't break any rules, that is.
@@ -54,7 +54,7 @@ This is the most important section of this guide, so read each and every bit.
 
 ***
 
-### CLASSES
+### Classes
 Here's the timetable for majority of the days (updated today):
 * For all UG Programs in Engineering, Architecture,Design and Performing Arts
 
@@ -72,13 +72,13 @@ In the first hour, there is a pardon of upto 10 minutes, which means you will be
 
 ***
 
-### STUFF YOU SHOULD HAVE
+### Stuff you should have
 * A book for notes. A 5-subject spiral bound book is usually given by the university, so that's more than enough.
 * Blue Book: A thin, 16-page book (with an obvious blue paper bind) used to write assessments and other lab exams. Costs around ₹10 - ₹12, so buy atleast 2 for each subject.
 
 ***
 
-### THE EXAMINATION SYSTEM
+### The Examination System
 There are three types of examinations/tests held in PES:
 
 #### Class Assignments / Lab assignments
@@ -105,7 +105,7 @@ One of the most important assessments. Conducted in the assessment centre, it is
 
 ***
 
-### THE PRN AND SRN
+### The PRN and SRN
 PRN (short for ) and SRN (short for ) are two unique IDs that are provided to you.
 * The PRN format is `PESxyyyyzzzzz`, where `x` is your campus code (1 is RR, 2 is EC), `yyyy` is the year of admission, and `zzzzz` is a unique number. Examples: PES1202212345.
 * The SRN format is `PESxzzyyccnnn`, where `x` is campus code, `zz` specifies your general qualification (UG for undergraduate), `yy` for year of admission, `cc` is course code (CS, EC, EE, AM, ME etc) and `nn` is a unique number. Example: PES2UG22EC123. \[ sorry if I doxxed someone :') \]
@@ -118,10 +118,10 @@ As long as you're in the first year, you are a part of the Science and Humanitie
 
 ***
 
-### THE COURSE CONTENT
+### The Course Content
 Students are divided into Physics and Chemistry cycles, usually based on alphabetical order of their names. But there are some common subjects in each semester irrespective of the cycle. If you get the Physics cycle in Sem 1, you'll get Chemistry cycle in Sem 2 and vice versa.
 
-#### Common Subjects
+#### Common subjects
 **FIRST SEMESTER**
 * Python for Computational Problem Solving (UEyyCS151A)
 * Engineering Mathematics - I (UEyyMA141A)
@@ -147,7 +147,7 @@ Students are divided into Physics and Chemistry cycles, usually based on alphabe
 
 ## SPECIAL MENTIONS: THE COOL SENIORS
 
-### THE LEGENDARY ROWLET OWL
+### The Legendary Rowlet Owl
 No junior doesn't know about him. He is everywhere, on Reddit, on Discord and on WhatsApp, answering juniors' doubts and giving priceless life and academic advice. Bro is a (blah) in (idk), and spends his free time with us juniors, usually dropping in some anecdotes and old memories. You rock, Rowlet-senpai!!
 Social links: 
 * [Reddit: r/rowlet-owl](https://www.reddit.com/user/rowlet-owl/)
