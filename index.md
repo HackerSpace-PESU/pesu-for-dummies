@@ -106,9 +106,46 @@ One of the most important assessments. Conducted in the assessment centre, it is
 ***
 
 ### The PRN and SRN
-PRN (short for ) and SRN (short for ) are two unique IDs that are provided to you.
+PRN and SRN are two unique IDs that are provided to you.
 * The PRN format is `PESxyyyyzzzzz`, where `x` is your campus code (1 is RR, 2 is EC), `yyyy` is the year of admission, and `zzzzz` is a unique number. Examples: PES1202212345.
 * The SRN format is `PESxzzyyccnnn`, where `x` is campus code, `zz` specifies your general qualification (UG for undergraduate), `yy` for year of admission, `cc` is course code (CS, EC, EE, AM, ME etc) and `nn` is a unique number. Example: PES2UG22EC123. \[ sorry if I doxxed someone :') \]
+
+***
+
+### The Course Codes
+Course codes are some really planned codes that give you a lot of information about the code. The pattern is really complex, and that's the reason I'll explain with examples:
+
+* `UE22PH151A` (Engineering Physics)
+	* `U` - Undergraduate
+	* `E` - Engineering department course
+	* `22` - Year that your batch starts from
+	* `PH` - Subject code
+	* `1` - year of study; can be 1, 2 and so on
+	* `5` - Credits for the course
+	* `1` - Number of courses of the same subject in the semester with the same number of credits
+	* `A` - Letter indicating semester relative to that year; A is the first semester of that year, B is the second, and so on.
+<br><br>
+
+* `UL22CE111B` (Constitution Of India , Cyber Law and Professional Ethics)
+	* `U` - Undergraduate
+	* `L` - Law department course
+	* `22` - Batch started in 2022
+	* `CE` - Subject code
+	* `1` - 1st year subject
+	* `1` - 1 credit for the course
+	* `1` - 1st CE subject in the same semester with 1 credits
+	* `B` - 2nd semester of that year
+<br><br>
+
+* `UE22CS243A` (Automata Formal Languages and Logic)
+	* `U` - Undergraduate
+	* `E` - Engineering department course
+	* `22` - Batch started in 2022
+	* `CS` - CSE subject
+	* `2` - 2nd year subject
+	* `4` - 4 credits for the course
+	* `3` - 2nd CSE subject in the same semester with 4 credits
+	* `A` - 1st semester of that year
 
 ***
 ***

@@ -62,7 +62,7 @@ The F Block, also called as Panini Block, is the oldest block of the campus. Thi
 ***
 
 ### Boys' Hostel
-The boys' hostel gets a special mention because it has two canteens:
+The boys' hostel gets a special mention because it has three canteens:
 
 #### Hostel Mess
 South Indian cuisine, vegetarian and non-vegetarian. Unlimited breakfast for ₹50 and unlimited lunch for ₹60.
