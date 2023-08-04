@@ -30,7 +30,7 @@ There are three campuses of PESU:
 * The Ring Road Campus (the RR campus)
 * The Electronics City Campus (the EC campus)
 
-Out of these, the HN campus is the oldest the first ever campus of PES, the RR campus is the most developed, biggest and main campus, and EC campus is a rather spacious and peaceful one, with a planned medical college and hospital.
+Out of these, the HN campus is the oldest and the first ever campus of PES, the RR campus is the most developed and biggest campus, and EC campus is a rather spacious and peaceful one, with a planned medical college and hospital.
 
 ---
 
