@@ -89,10 +89,17 @@ So although it is possible, branch change to CSE is extremely difficult because 
 
 * **Seats are limited:** CSE seats only free up when people leave seats and every year there are only a handful (my batch had 3-4 changes only)
 
-You need to be at the top of your batch to even be considered for branch change. Even if seats are available, CGPA plays a role in the priority order. Someone currently in mechanical with a better CGPA than someone in let's say someone in ECE will have more priority of changing branches.
+* You need to be at the top of your batch to even be considered for branch change. Even if seats are available, CGPA plays a role in the priority order. Someone currently in mechanical with a better CGPA than someone in let's say someone in ECE will have more priority of changing branches.
 
-If I remember correctly, changes from EC CSE to RR CSE are given more priority than complete branch changes. This will again put you at a disadvantage
+* If I remember correctly, changes from EC CSE to RR CSE are given more priority than complete branch changes. This will again put you at a disadvantage
 
-You are competing with an insane number of people to shift branches since both campuses are considered (number of people across all branches and campuses with 9.5+ will be atleast 30 and available seats are handful), it does not really work out for almost everyone
+* You are competing with an insane number of people to shift branches since both campuses are considered (number of people across all branches and campuses with 9.5+ will be atleast 30 and available seats are handful), it does not really work out for almost everyone
 
 If you join EEE with the intention of getting CSE in the second year I would suggest don't. I will not comment on whether you are capable of doing it, but chances are thinner than a hair.
+<br><br>
+
+==-
+
+<br>
+
+==- 
