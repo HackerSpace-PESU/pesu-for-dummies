@@ -10,15 +10,17 @@ Also, the guide is a work in progress, so there will be more things added. Stay 
 + [The Campuses](#the-campuses)
 + [The Big Shots](#the-big-shots)
 + [General Stuff](#general-stuff)
-	+ [Rules](#rules)
+	+ [Stuff to know](#stuff-to-know)
 	+ [Classes](#classes)
 	+ [Stuff you should have](#stuff-you-should-have)
 	+ [The Examination System](#the-examination-system)
     + [The PRN and SRN](#the-prn-and-srn)
+	+ [The Course Codes](#the-course-codes)
 + [The First Year](#the-first-year)
     + [The Course Content](#the-course-content)
 + [Special Mentions: The Cool Seniors](#special-mentions-the-cool-seniors)
 + [Other Useful Links](#other-useful-links)
++ [Contributors](#contributors)
 
 	
 
@@ -46,7 +48,7 @@ These are the people on the top of the PESU administration:
 This is the most important section of this guide, so read each and every bit.
 
 
-### STUFF TO KNOW
+### Stuff to know
 * ID Card is a must, no matter what else you bring. This is to ensure security in the campus. Also, should you forget to bring your ID Card, you can always show your profile in the PESU App to gain entry to the campus. But you may be stopped and questioned in various places across campus.
 * A minimum of 80 - 85% of attendance is necessary in every subject to be eligible to write the end sems. Did I say every subject? Yes, attendance is taken subject-wise in universities, not day-wise. Please do remember that.
 * You can roam around the campus. There is no restriction on that freedom. As long as you don't break any rules, that is.
@@ -54,7 +56,7 @@ This is the most important section of this guide, so read each and every bit.
 
 ***
 
-### CLASSES
+### Classes
 Here's the timetable for majority of the days:
 * For all UG Programs in Engineering, Architecture,Design and Performing Arts
 
@@ -212,6 +214,9 @@ Social links:
 ***
 
 ## CONTRIBUTORS
+This project is open-source under PESU Hackerspace Club, and you can contribute to it through [this repository](https://github.com/HackerSpace-PESU/pesu-for-dummies)
+
 * [SilicoFlare](https://github.com/silicoflare)
 * [Kanishka Sahoo](https://github.com/kanishka-sahoo)
 * [Icarus](https://icarus.tk/)
+* [Tatuskar Jaiwanth](https://github.com/T-JAIWANTH)
