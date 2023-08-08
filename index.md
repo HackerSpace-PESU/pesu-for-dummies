@@ -215,3 +215,4 @@ Social links:
 * [SilicoFlare](https://github.com/silicoflare)
 * [Kanishka Sahoo](https://github.com/kanishka-sahoo)
 * [Icarus](https://icarus.tk/)
+* [Tatuskar Jaiwanth](https://github.com/T-JAIWANTH)
