@@ -190,7 +190,7 @@ Students are divided into Physics and Chemistry cycles, usually based on alphabe
 ### The Legendary Rowlet Owl
 No junior doesn't know about him. He is everywhere, on Reddit, on Discord and on WhatsApp, answering juniors' doubts and giving priceless life and academic advice. Bro is a (blah) in (idk), and spends his free time with us juniors, usually dropping in some anecdotes and old memories. You rock, Rowlet-senpai!!
 Social links: 
-* [Reddit: r/rowlet-owl](https://www.reddit.com/user/rowlet-owl/)
+* [Reddit: u/rowlet-owl](https://www.reddit.com/user/rowlet-owl/)
 * [Discord: @rowletowl](https://discordapp.com/users/543143780925177857)
 
 ***
@@ -219,4 +219,3 @@ This project is open-source under PESU Hackerspace Club, and you can contribute 
 * [SilicoFlare](https://github.com/silicoflare)
 * [Kanishka Sahoo](https://github.com/kanishka-sahoo)
 * [Icarus](https://icarus.tk/)
-* [Tatuskar Jaiwanth](https://github.com/T-JAIWANTH)

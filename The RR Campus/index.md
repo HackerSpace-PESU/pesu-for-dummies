@@ -1,7 +1,3 @@
----
-order: -2
----
-
 # The RR Campus
 The RR Campus is the biggest campus of PESU, in terms of infrastructure.
 
