@@ -75,8 +75,9 @@ In the first hour, there is a pardon of upto 10 minutes, which means you will be
 ***
 
 ### Stuff you should have
-* A book for notes. A 5-subject spiral bound book is usually given by the university, so that's more than enough.
-* Blue Book: A thin, 16-page book (with an obvious blue paper bind) used to write assessments and other lab exams. Costs around ₹10 - ₹12, so buy atleast 2 for each subject.
+* **A book for notes.** A 5-subject spiral bound book is usually given by the university, so that's more than enough.
+* **Blue Book:** A thin, 16-page book (with an obvious blue paper bind) used to write assessments and other lab exams. Costs around ₹10 - ₹12, so buy atleast 2 for each subject.
+* **A calculator:** Only a basic-level scientific calculator is allowed. Programmable calculators are not allowed. The most recommended calculator is [Casio fx-991EX]().
 
 ***
 
