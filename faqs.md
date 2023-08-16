@@ -84,6 +84,13 @@ IMO, the main comparisons that you should make are very subjective parameters su
 
 <br>
 
+==- [!badge variant="danger" text="Most Asked"] What is the difference between CSE and AIML branches?
+Literally nothing lmao
+<br><br>
+==-
+
+<br>
+
 ==- How to switch branch/campus?
 So although it is possible, branch change to CSE is extremely difficult because it depends on a lot of factors:
 
@@ -124,8 +131,8 @@ PPS - Funnily, I've heard of some people who know they are going to screw up the
 
 <br>
 
-==- 
-
+==- Will I really need to buy a laptop in the first year?
+No lol, jokes on you
 <br><br>
 
 ==- 

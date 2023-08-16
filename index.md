@@ -75,8 +75,9 @@ In the first hour, there is a pardon of upto 10 minutes, which means you will be
 ***
 
 ### Stuff you should have
-* A book for notes. A 5-subject spiral bound book is usually given by the university, so that's more than enough.
-* Blue Book: A thin, 16-page book (with an obvious blue paper bind) used to write assessments and other lab exams. Costs around ₹10 - ₹12, so buy atleast 2 for each subject.
+* **A book for notes.** A 5-subject spiral bound book is usually given by the university, so that's more than enough.
+* **Blue Book:** A thin, 16-page book (with an obvious blue paper bind) used to write assessments and other lab exams. Costs around ₹10 - ₹12, so buy atleast 2 for each subject.
+* **A calculator:** Only a basic-level scientific calculator is allowed. Programmable calculators are not allowed. The most recommended calculator is [Casio fx-991EX]().
 
 ***
 
@@ -190,7 +191,7 @@ Students are divided into Physics and Chemistry cycles, usually based on alphabe
 ### The Legendary Rowlet Owl
 No junior doesn't know about him. He is everywhere, on Reddit, on Discord and on WhatsApp, answering juniors' doubts and giving priceless life and academic advice. Bro is a (blah) in (idk), and spends his free time with us juniors, usually dropping in some anecdotes and old memories. You rock, Rowlet-senpai!!
 Social links: 
-* [Reddit: r/rowlet-owl](https://www.reddit.com/user/rowlet-owl/)
+* [Reddit: u/rowlet-owl](https://www.reddit.com/user/rowlet-owl/)
 * [Discord: @rowletowl](https://discordapp.com/users/543143780925177857)
 
 ***
@@ -219,4 +220,3 @@ This project is open-source under PESU Hackerspace Club, and you can contribute 
 * [SilicoFlare](https://github.com/silicoflare)
 * [Kanishka Sahoo](https://github.com/kanishka-sahoo)
 * [Icarus](https://icarus.tk/)
-* [Tatuskar Jaiwanth](https://github.com/T-JAIWANTH)
