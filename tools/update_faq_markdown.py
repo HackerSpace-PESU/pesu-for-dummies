@@ -20,6 +20,7 @@ parser.add_argument("--client-secret", "-cs", type=str, help="Reddit client secr
 parser.add_argument("--user-agent", "-ua", type=str, help="Reddit user agent")
 parser.add_argument("--percentile", "-p", type=int, default=85, help="percentile value for most asked tag")
 args = parser.parse_args()
+print(args)
 
 reddit = praw.Reddit(
     client_id=args.client_id,
