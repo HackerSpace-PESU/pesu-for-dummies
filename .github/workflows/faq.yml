@@ -26,9 +26,9 @@ jobs:
       - name: Update faq.md
         run: |
           python tools/update_faq_markdown.py \
-          --client-id ${{ secrets.REDDIT_CLIENT_ID }} \
-          --client-secret ${{ secrets.REDDIT_CLIENT_SECRET }} \
-          --user-agent ${{ secrets.REDDIT_USER_AGENT }}
+          --client-id "${{ secrets.REDDIT_CLIENT_ID }}" \
+          --client-secret "${{ secrets.REDDIT_CLIENT_SECRET }}" \
+          --user-agent "${{ secrets.REDDIT_USER_AGENT }}"
 
       # Commit all changed files back to the repository
       - uses: stefanzweifel/git-auto-commit-action@v4
