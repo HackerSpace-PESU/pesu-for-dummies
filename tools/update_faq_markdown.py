@@ -17,13 +17,13 @@ import sys
 print(sys.argv)
 
 # read percentile and reddit credentials from command line
-# parser = argparse.ArgumentParser()
-# parser.add_argument("--client-id", "-cid", type=str, help="Reddit client ID")
-# parser.add_argument("--client-secret", "-cs", type=str, help="Reddit client secret")
-# parser.add_argument("--user-agent", "-ua", type=str, help="Reddit user agent")
-# parser.add_argument("--percentile", "-p", type=int, default=85, help="percentile value for most asked tag")
-# args = parser.parse_args()
-# print(args)
+parser = argparse.ArgumentParser()
+parser.add_argument("--client-id", "-cid", type=str, help="Reddit client ID", required=False)
+parser.add_argument("--client-secret", "-cs", type=str, help="Reddit client secret", required=False)
+parser.add_argument("--user-agent", "-ua", type=str, help="Reddit user agent", required=False)
+parser.add_argument("--percentile", "-p", type=int, default=85, help="percentile value for most asked tag")
+args = parser.parse_args()
+print(args)
 
 reddit = praw.Reddit(
     client_id=args.client_id,
