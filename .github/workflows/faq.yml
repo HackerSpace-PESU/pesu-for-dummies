@@ -22,7 +22,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install -r tools/requirements.txt
       - name: Update faq.md
         run: |
           python tools/update_faq_markdown.py --percentile 85 --client-id ${{ secrets.REDDIT_CLIENT_ID }} --client-secret ${{ secrets.REDDIT_CLIENT_SECRET }} --user-agent ${{ secrets.REDDIT_USER_AGENT }}
