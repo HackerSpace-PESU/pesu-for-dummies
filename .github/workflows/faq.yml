@@ -24,8 +24,13 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r tools/requirements.txt
       - name: Update faq.md
+        # Run the script to update the faq.md file. An '=' sign is added in the command line arguments
+        # to allow the script to parse the arguments correctly.
         run: |
-          python tools/update_faq_markdown.py --client-id '${{ secrets.REDDIT_CLIENT_ID }}' --client-secret '${{ secrets.REDDIT_CLIENT_SECRET }}' --user-agent '${{ secrets.REDDIT_USER_AGENT }}' \
+          python tools/update_faq_markdown.py \
+          --client-id="${{ secrets.REDDIT_CLIENT_ID }}" \
+          --client-secret="${{ secrets.REDDIT_CLIENT_SECRET }}"\
+          --user-agent="${{ secrets.REDDIT_USER_AGENT }}" \
 
       # Commit all changed files back to the repository
       - uses: stefanzweifel/git-auto-commit-action@v4
