@@ -3,7 +3,7 @@ name: Update FAQs from Reddit
 on: push
 
 jobs:
-  format-code:
+  update-faqs:
     runs-on: ubuntu-latest
 
     permissions:
@@ -16,7 +16,7 @@ jobs:
 
       # Update faq.md file in the repository
       - name: Set up Python 3.10
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v3
         with:
           python-version: 3.10
       - name: Install dependencies
