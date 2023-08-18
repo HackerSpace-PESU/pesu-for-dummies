@@ -312,3 +312,21 @@ Good luck!
 
 <br>
 
+==- Should I pick CS+AIML or CSE?
+There are *multiple* reasons to **not** choose the AIML branch at PES, or any other college for that matter. I'm going to list down the reasons for AIML but this applies for most if not all specialisation branches. 
+
+1. It's an untested branch - most of these branches have been introduced only to increase the number of CS seats in a college because colleges know that these sell well. At the end of the day they're running a business and need to look out for themselves. The first AIML branch is in 3rd semester.
+2. AIML branch replaces a few core fundamental CS courses with AIML related courses. This is an extremely bad and poor decision because a lot of the coursework being replaced is fundamental for a CS grad to know. You might think these are unimportant but without these courses your CS undergraduate degree does not make sense.
+3. If you're looking at higher education, then you should know that admission boards abroad do not like specialisation branches because they know that they tend to skip fundamental coursework. Specialisations are treated as baseless because a specialisation in undergrad doesn't make sense. Even for Masters degrees, you will rarely find an AIML degree, most of them are specialisations of CS. Secondly, and by far the most important aspect, admission boards always list down a set of prerequisite courses that are required to be considered for admission. PES is *skipping these topics and replacing with AIML courses*. It will definitely come to affect you later in some way or another. 
+4. A lot of people don't know what AIML is and are picking it purely for the hype. AIML is first and foremost, a *mathematical* field. All the development you see out there today with ChatGPT etc are **not** engineering marvels, but rather breakthroughs in mathematical techniques, optimisation algorithms. AIML as a field comprises of calculus, linear algebra, statistics and probability. Almost all courses that are part of the AIML curriculum are entirely math based, in which the papers essentially require you to either derive equations or solve out problems. You will not be "coding" the next AI. If you're into math, you're going to enjoy it, but most people who enter this field with the misconception that there will be programming involved drop their interest right after a week because you're going to doing math from day 1.
+5. Building on the previous point, this field is a heavy research field. People who get into field are interested in research (me being one of them). This field is entirely for academia and those who pursue a research based MS and PhD in this field. If you look at all the jobs that are out there for AIML, you'll realise that they all require an MS degree at the very least because this field requires a lot of fundamental domain knowledge in your every day to day job. The only companies that recruit AIML engineers right out of undergrad are startups. You are 99% going to end up with a job a CS branch graduate will get, but they would have gotten the opportunity to study what they wanted to (explained in below point).
+6. You should not restrict yourself in undergrad. This is the time and place to explore the world of CS and see what's out there. Spend time looking at different things from systems to cybersec and figure out your interests. You may realise that you were never into AIML at all. If you pick core CS, you'll still get to explore and see what's out there and *get to make your choice of electives*. If you pick AIML, you're restricted and the college decides what you will study and which field you will enter. Don't let college take away the beauty of exploring the world of CS. There is honestly so so much more than AIML.
+
+
+Probably the *only* reason I would recommend AIML to someone is if they care about getting *any* kind of IT job, did not get core CS and don't really care what they study during the 4 year degree. A very bad decision if you're one from this category, but it is what it is.
+<br><br>
+
+==-
+
+<br>
+
