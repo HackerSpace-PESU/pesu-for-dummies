@@ -51,7 +51,8 @@ content = faq_post.selftext
 
 # skip these links
 skip = [
-    "https://www.reddit.com/r/PESU/comments/14c1jiw/how_to_ask_a_question_on_rpesu/"
+    "https://www.reddit.com/r/PESU/comments/14c1jiw/how_to_ask_a_question_on_rpesu/",
+    "https://www.reddit.com/r/PESU/comments/142gani/pesu_discord/"
 ]
 
 # find all markdown text which have a link: [example test for link](https://example.com)
