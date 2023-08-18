@@ -1,0 +1,14 @@
+certifi==2023.7.22
+charset-normalizer==3.2.0
+idna==3.4
+numpy==1.25.2
+pip==23.2.1
+praw==7.7.1
+prawcore==2.3.0
+python-dotenv==1.0.0
+requests==2.31.0
+setuptools==68.0.0
+update-checker==0.18.0
+urllib3==2.0.4
+websocket-client==1.6.1
+wheel==0.38.4
