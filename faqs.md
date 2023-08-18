@@ -7,14 +7,6 @@ order: -9
 These FAQs have been directly sourced from the [r/PESU subreddit](https://www.reddit.com/r/PESU/comments/14c1iym/faqs/). 
 If you would like to add a question or make suggestions, please contact [u/rowlet-owl](https://www.reddit.com/user/rowlet-owl/).
 
-==- What is the server link to PESU Discord?
-https://www.reddit.com/r/PESU/comments/142gani/pesu_discord/
-<br><br>
-
-==-
-
-<br>
-
 ==- [!badge variant="danger" text="Most Asked"] What are the pros and cons of PESU?
 As the friendly neighbourhood redditor on this sub, let me share my views:
 
