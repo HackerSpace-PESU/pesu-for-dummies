@@ -1,0 +1,4 @@
+* [ ] Details about the hostels
+* [ ] RR Campus club details
+* [ ] EC Campus club details
+* [ ] Details about RR Campus Gym
