@@ -28,6 +28,9 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r tools/requirements.txt
+      - name: Update contributors.ms
+        run: |
+          python tools/update_contributors.py
       - name: Update faq.md
         # Run the script to update the faq.md file. An '=' sign is added in the command line arguments
         # to allow the script to parse the arguments correctly.

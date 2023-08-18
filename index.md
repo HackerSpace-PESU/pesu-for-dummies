@@ -194,29 +194,3 @@ Social links:
 * [Reddit: u/rowlet-owl](https://www.reddit.com/user/rowlet-owl/)
 * [Discord: @rowletowl](https://discordapp.com/users/543143780925177857)
 
-***
-***
-
-##  OTHER USEFUL LINKS
-### General Links
-* [PESU Official Website](https://pes.edu/)
-
-### Social Links
-* [Official PESU Discord server](https://discord.gg/pesu-discord-742797665301168220)
-* [PES '27 batch Discord Server](https://dsc.gg/pes27)
-* [Reddit Community](https://reddit.com/r/PESU)
-* [PESU FAQs](https://bit.ly/pesu-faq)
-
-### Academic Links
-* [PESU Academy](https://www.pesuacademy.com/)
-* [BetterPES Content Hub](https://better-pes.vercel.app/)
-
-***
-***
-
-## CONTRIBUTORS
-This project is open-source under PESU Hackerspace Club, and you can contribute to it through [this repository](https://github.com/HackerSpace-PESU/pesu-for-dummies)
-
-* [SilicoFlare](https://github.com/silicoflare)
-* [Kanishka Sahoo](https://github.com/kanishka-sahoo)
-* [Icarus](https://icarus.tk/)
