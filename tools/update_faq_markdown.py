@@ -31,7 +31,7 @@ reddit = praw.Reddit(
 
 # markdown templates
 FAQ_TEMPLATE = """---
-order: -10
+order: -9
 ---
 
 # FAQs (feat. Rowlet Owl)
