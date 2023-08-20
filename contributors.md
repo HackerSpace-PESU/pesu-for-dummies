@@ -9,7 +9,9 @@ Found some mistakes in the pages, or want to contribute your own content to this
 <br><br>
 
 ## Guidelines
+* Before starting to work on any changes, please ping SilicoFlare on the `#pesu-for-dummies` channel in the [HackerSpace Discord](https://hackerlinks.vercel.app/discord) because there are many local changes made and your changes could interfere with them.
 
+* Make sure the information added is verified to be true by trusted sources, because several students refer to this guide for information.
 
 <br><br>
 
