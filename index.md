@@ -19,11 +19,8 @@ Also, the guide is a work in progress, so there will be more things added. Stay 
 + [The First Year](#the-first-year)
     + [The Course Content](#the-course-content)
 + [Special Mentions: The Cool Seniors](#special-mentions-the-cool-seniors)
-+ [Other Useful Links](#other-useful-links)
-+ [Contributors](#contributors)
 
 	
-
 ---
 
 ## THE CAMPUSES
