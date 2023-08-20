@@ -1,6 +1,7 @@
 input: .
 output: .retype
 url: # Add your website address here
+favicon: favicon.ico
 branding:
   title: The Ultimate Guide to PES
   label: Guide
