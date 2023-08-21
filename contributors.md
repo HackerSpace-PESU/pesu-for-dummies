@@ -13,6 +13,8 @@ Found some mistakes in the pages, or want to contribute your own content to this
 
 * Make sure the information added is verified to be true by trusted sources, because several students refer to this guide for information.
 
+* Use the templates in the `templates` folder to create the required pages for clubs and research centers.
+
 <br><br>
 
 ## Stuff to add
