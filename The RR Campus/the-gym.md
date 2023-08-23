@@ -16,8 +16,8 @@ The two-storey gym of RR campus is located inside of the Golden Jubilee Block, i
 
 
 ## Application Process
-* Finish the payment on the PESU Academy Portal. A few receipt will be available in a week's time.
-* Take a copy of the fee receipt, and a passport size photo, and head to the sports department located in the basement of GJB.
+* Finish the payment on the PESU Academy Portal. A fee receipt will be available in 2 to 3 days' time. If you don't get it, please go to the accounts section of MRD Block and ask for it.
+* Take a copy of the fee receipt, and two passport size photos, one for an application form and anoter for an ID Card, and head to the sports department located in the basement of GJB.
 * Once you fill the form handed out to you, an ID Card will be issued, allowing access into the gym.
 * Note that the person in charge leaves after 3:30 PM, so it is recommended to visit earlier than 3:30 PM.
 
@@ -45,5 +45,5 @@ The two-storey gym of RR campus is located inside of the Golden Jubilee Block, i
 * A deodrant
 
 ## The Locker Rooms
-* The locker rooms are located in the second floor, with ample amount of storage.
+* The locker rooms are located in the same floor as the Cardio equipment, with ample amount of storage.
 * There are also a few changing rooms, washrooms and two showers with cold water only.

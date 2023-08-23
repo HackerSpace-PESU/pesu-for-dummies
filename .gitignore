@@ -3,3 +3,4 @@
 package-lock.json
 package.json
 _config.yml
+tailwind.config.js
