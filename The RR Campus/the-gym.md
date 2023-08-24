@@ -16,6 +16,8 @@ The two-storey gym of RR campus is located inside of the Golden Jubilee Block, i
 
 
 ## Application Process
+* Open PESU Academy, go to Online Payments section and select Miscellaneous Fees.
+* In the Category dropdown, select RECREATIONAL CENTER, and in the Sub-Category, select Gym Fee.
 * Finish the payment on the PESU Academy Portal. A fee receipt will be available in 2 to 3 days' time. If you don't get it, please go to the accounts section of MRD Block and ask for it.
 * Take a copy of the fee receipt, and two passport size photos, one for an application form and anoter for an ID Card, and head to the sports department located in the basement of GJB.
 * Once you fill the form handed out to you, an ID Card will be issued, allowing access into the gym.
@@ -37,6 +39,7 @@ The two-storey gym of RR campus is located inside of the Golden Jubilee Block, i
 * 2 stairmasters
 * Space for sledge pushing, which is also used for pre-workout and post-workout stretching
 
+
 ## Stuff to Bring Along
 * Training shoes, preferably to be used only for the gym
 * No strict dress code as such: wear comfortable outfit
@@ -44,6 +47,11 @@ The two-storey gym of RR campus is located inside of the Golden Jubilee Block, i
 * A water bottle
 * A deodrant
 
+
 ## The Locker Rooms
 * The locker rooms are located in the same floor as the Cardio equipment, with ample amount of storage.
 * There are also a few changing rooms, washrooms and two showers with cold water only.
+
+
+## Membership
+The membership fee to the gym is ₹10,000 (Rupees Ten Thousand only) for the academic session (10 months), which should be paid as instructed in the [application process](#application-process).
