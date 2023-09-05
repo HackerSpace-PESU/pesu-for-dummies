@@ -44,7 +44,7 @@ Last updated: 3rd June 2023.
 
 <br>
 
-==- [!badge variant="danger" text="Most Asked"] How do I calculate my SGPA and CGPA? Is there a calculator?
+==- How do I calculate my SGPA and CGPA? Is there a calculator?
 Let me start from the beginning:
 
 ## Credits
