@@ -264,7 +264,7 @@ http://better-pes.vercel.app
 
 <br>
 
-==- What do my 4 years in CSE look like?
+==- [!badge variant="danger" text="Most Asked"] What do my 4 years in CSE look like?
 I'd say depends on your branch, but I can answer for CSE
 
 * 1st year is usually a great way to lay the foundation of a good GPA. The subjects are mostly easy and people tend to do well. There are lesser course deliverables as well as other responsibilities/activities/factors do not exist at this point. Whatever you get as your CGPA at this stage will roughly be the benchmark around with your GPAs will fluctuate in the future.
