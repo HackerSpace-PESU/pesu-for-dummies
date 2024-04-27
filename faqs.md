@@ -326,3 +326,20 @@ Probably the *only* reason I would recommend AIML to someone is if they care abo
 
 <br>
 
+==- Which laptop should I buy for college?
+So I usually don't recommend buying one if you're still in first year, since you can usually do with whatever you already have since the requirements aren't extensive. Plus, waiting a little will also give you time to figure out your interests and help you make a more informed decision on the kind of laptop you need to pursue your interests.
+
+Having said that, if you're looking for a generic purpose laptop with an all-rounded use-case, I usually suggest the following specs - 
+
+* Windows laptop so you can dual boot Linux - people have issues running some packages with MacOS. These issues so have workarounds but they're tedious and a hassle. A dual booted Windows runs everything out of the box. 
+* Don't compromise on these - SSD, 16 GB RAM, latest gen processor, lightweight laptop, solid battery backup. Theoretically even RAM can be upgraded but ideally you'd want atleast 16 GB. If not, make sure the model supports an upgrade. 
+* Things that will depend on your preferences - display size, brand, storage capacity. Choose whichever you like. 
+* Optional - an entry level Nvidia GPU. You don't need a powerhouse, an entry level one will do. Although, you can get by without one as well. Don't prioritise this, although if you can get one within your budget, make sure it's an Nvidia only. 
+
+Whatever it is, don't buy a gaming laptop (unless gaming is a priority). They are extremely heavy and a pain to carry around, have terrible battery life, and you won't really make use of the GPU power.
+<br><br>
+
+==-
+
+<br>
+
