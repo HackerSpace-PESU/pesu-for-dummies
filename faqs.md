@@ -90,7 +90,7 @@ You can also use [this](https://docs.google.com/spreadsheets/d/1EUXscZPrBGKSxbk2
 
 <br>
 
-==- [!badge variant="danger" text="Most Asked"] What are the differences between RR and EC campuses?
+==- What are the differences between RR and EC campuses?
 If you absolutely want PES, then CSE is best here. But you shouldn't go for this route. Branch matters a lot, especially if you intend to pursue higher education. I have a couple of points regarding the campus:
 
 - Trust me, the campuses *are* the same. I graduated last year and I've seen the two campuses being almost the same. RR has more fancy buildings, EC has a spacious and open campus. RR feels very crowded, dense and packed, and the campus is essentially roads between buildings. But yes, the buildings at RR are newer and are very fancy. 
@@ -184,7 +184,7 @@ If the usual session calendars are followed you get roughly 2.5 months in the su
 
 <br>
 
-==- What is the Capstone Project?
+==- [!badge variant="danger" text="Most Asked"] What is the Capstone Project?
 Capstone Project is essentially your final year college project that spans over 6th, 7th and 8th semester. Most projects are research based ones where you pursue some novelty in a field, but there are also a few non research based projects. Capstone totally adds up to 10 credits so it greatly affects your CGPA and cannot be taken lightly and requires genuine work from your end to actually do well in. 
 
 1. 6-8th semesters
