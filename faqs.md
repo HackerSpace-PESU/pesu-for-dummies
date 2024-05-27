@@ -125,6 +125,22 @@ The second round of counseling works exactly like the first round, except for a 
 
 <br>
 
+==- Where can I find information about bus services at RR Campus?
+https://pes.edu/transportation-ring-road/
+<br><br>
+
+==-
+
+<br>
+
+==- Where can I find information about bus services at EC Campus?
+https://pes.edu/transportation-electronic-city-campus/
+<br><br>
+
+==-
+
+<br>
+
 ==- Where can I find more information about the campus? (PESUpedia)
 https://pesupedia.vercel.app/
 <br><br>
