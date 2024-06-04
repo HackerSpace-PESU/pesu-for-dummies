@@ -141,6 +141,14 @@ https://pes.edu/transportation-electronic-city-campus/
 
 <br>
 
+==- What are my accommodation options (pros and cons) at EC campus?
+https://www.reddit.com/r/PESU/comments/1d696yh/looking_for_a_roommate_in_ec_campus/
+<br><br>
+
+==-
+
+<br>
+
 ==- Where can I find more information about the campus? (PESUpedia)
 https://pesupedia.vercel.app/
 <br><br>
