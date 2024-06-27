@@ -227,16 +227,16 @@ and so on...
 ==- What is a backlog?
 I'll just explain from the beginning to make things clear for everyone.
 
-If you fail (or withdraw) a course, you will need to pass it to get your degree. If you do not clear it, you won't be given your degree, your transcript will always show that you have a pending backlog, and you will not be allowed to sit for placements. Now, you can clear backlogs during two specific moments in the year: 
+If you fail (or withdraw) a course, you will need to pass it to get your degree. If you do not clear it, you won't be given your degree, your transcript will always show that you have a pending backlog, and you will not be allowed to sit for placements. Now, you can clear backlogs during two specific moments in the year:
 
-1. Summer backlog exam: If you choose to do this, then in the next summer break between the even and the odd semesters, you'll have to give the backlog exam again. 
-2. Normal course exam: If you choose to do this, then you'll have to take up the exam for this the *next time* the course is again held. In most cases this is the next year with the next batch (so if you fail a course in 3rd semester, you'll have to take the course again the next 3rd semester kids take it, so you'll be in 5th semester). 
+1. Summer backlog exam: If you choose to do this, then in the next summer break between the even and the odd semesters, you'll have to give the backlog exam again.
+2. Normal course exam: If you choose to do this, then you'll have to take up the exam for this the *next time* the course is again held. In most cases this is the next year with the next batch (so if you fail a course in 3rd semester, you'll have to take the course again the next 3rd semester kids take it, so you'll be in 5th semester).
 
 Once you pass via any of the methods, you've passed the course. One thing to note is, regardless of the option you choose, if you need to give a backlog you will only be evaluated on the exam: all 100 marks for the course will be taken from your ESA paper, you will not have any ISA, assignment or project components. Additionally, you can take backlog exams as many times as you need to pass a course, but do remember that each backlog exam costs money.
 
-Also if I'm not wrong, you will always have an indication that you had a backlog but it was cleared on your transcript. Also there is a maximum grade that can be achieved in a backlog exam. I think it was a C grade for us.
+Also there is a maximum grade that can be achieved in a backlog exam. I think it was a B grade for us. Best to get this verified.
 
-PS - Backlog exams apparently tend to be easier in the summer. No concrete proof to support this though - just PESU lore 
+PS - Backlog exams apparently tend to be easier in the summer. No concrete proof to support this though - just PESU lore
 
 PPS - Funnily, I've heard of some people who know they are going to screw up their ESA withdraw from their exam and instead choose to give a backlog exam in the summer to pass it. This has 2 advantages: you haven't failed the course so it doesn't count as a "failed", and it doesn't consider your ISAs or other deliverables, so if you've screwed up in those it doesn't affect your overall score anymore. Now whether people actually went ahead with this, I'm not sure. Do this at your own peril - I don't hold any responsibility for exploiting this loophole.
 <br><br>
