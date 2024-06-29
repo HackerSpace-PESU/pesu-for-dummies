@@ -288,12 +288,13 @@ http://better-pes.vercel.app
 <br>
 
 ==- How do I become a Teaching Assistant?
-I can answer for CS, but I think the process will be nearly the same for all branches. 
+I can answer for CS, but I think the process will be nearly the same for all branches.
 
-1. Firstly, you can only be TA for a course that you've taken up in the past. You obviously can't TA for a course you are currently taking up or you will take up in a later semester. 
-2. You can reach out to the faculty you want to work with for the course, tell them why you want to be the TA, what you learned from the course etc etc. It's more like a personal statement about how you can contribute as TA and why you should be given that role. The teacher you reach out to might also ask for other details like your CGPA, the project you did in that course and so on. 
-3. Alternatively, the CS department in the past has also sent out a Google Form to the entire batch to collect the same info as above from interested students. As far as I know they send it out only at the beginning of your 7th semester (although TAs can also be from earlier semesters). IMO it's better and honestly far more effective to directly approach the teacher you want to work with. 
-4. Based on the details you give the prof (or the responses from the Google form), they'll evaluate their options and reach out to the students they think are suitable. 
+1. Firstly, you can only be TA for a course that you've taken up in the past. You obviously can't TA for a course you are currently taking up or you will take up in a later semester.
+2. You can reach out to the faculty you want to work with for the course, tell them why you want to be the TA, what you learned from the course etc etc. It's more like a personal statement about how you can contribute as TA and why you should be given that role. The teacher you reach out to might also ask for other details like your CGPA, the project you did in that course and so on.
+3. Side note - I have also had profs reach out to me and request joining them as a TA. This is very rare though and requires you to have a good relationship with the prof either by working with them in research  or doing well in their course. I did both and thus was requested.
+4. Alternatively, the CS department in the past has also sent out a Google Form to the entire batch to collect the same info as above from interested students. As far as I know they send it out only at the beginning of your 7th semester (although TAs can also be from earlier semesters). IMO it's better and honestly far more effective to directly approach the teacher you want to work with.
+5. Based on the details you give the prof (or the responses from the Google form), they'll evaluate their options and reach out to the students they think are suitable.
 
 Good luck!
 <br><br>
