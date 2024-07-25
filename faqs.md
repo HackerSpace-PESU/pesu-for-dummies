@@ -68,6 +68,22 @@ If you have more questions, I'd be happy to answer. As I said, I graduated in 20
 
 <br>
 
+==- Why do people prefer RR over EC campuses if they are the same?
+Short answer: lack of awareness and outdated information among students, peers, parents/relatives, YouTubers and websites. 
+
+Long answer: 
+
+PES EC (then called PESIT) was under VTU until 2018 - so until then they had different syllabus, placements, etc. In 2018 it came autonomous and since then EC has been sharing the same syllabus, profs, placements etc etc. However, until 2018, PES kept branding RR as the "main" campus and EC as the "South" or "other" campus. It was always advertised strongly that RR was the superior choice being autonomous. So until 2018, either EC was unheard of, or they were simply given the stepson treatment. Nobody, including PES, really cared about it. So all websites, blogs, YouTube videos, etc considered it inferior. So people who graduated years ago, or are in turn parents now, don't consider EC even 1% of what RR is. 
+
+However things changed in 2018, but it takes time for information to get updated when such drastic changes have taken place. For years PES kept shooting itself in the foot by saying RR > EC so when finally both campuses did become equivalent, people were stubborn to believe it (and trust me this was especially true in my batch since I joined in 2018 - the same year it became autonomous). However most websites, parents, relatives etc are still on outdated information. Most don't know that both are the same now, sharing placements and opportunities. Anyone older than 30 or so will mostly have this outdated information. And that's why students also still pick RR over EC because they hear from word of mouth, websites, videos, relatives, parents etc that RR is better. It will take a couple more years to actually change the mindset and outdated beliefs. It was much worse in 2018 and 2019, now it's actually a lot better. 
+
+As for the peer group, I disagree. Sure you might find people at RR who are better at PCM, but that doesn't correlate to people being better at engineering. In fact there is no correlation at all. Just because you solve a few more questions doesn't mean you'll succeed at college. College requires a whole new array of skills to do well and succeed. It's often those with passion and interest in their branch that actually stand out. And as I mentioned, the quality of tech clubs, events and the tech culture in ECC is currently far ahead of RR due to a variety of reasons.
+<br><br>
+
+==-
+
+<br>
+
 ==- How do I switch branches/campuses at PESU?
 So although it is possible, branch change to CSE is extremely difficult because it depends on a lot of factors
 
@@ -84,18 +100,32 @@ If you join EEE with the intention of getting CSE in the second year I would sug
 <br>
 
 ==- [!badge variant="danger" text="Most Asked"] Should I pick CS+AIML or CSE?
-There are *multiple* reasons to **not** choose the AIML branch at PES, or any other college for that matter. I'm going to list down the reasons for AIML but this applies for most if not all specialisation branches.
+There are *multiple* reasons to **not** choose the AIML branch at PES or any other college. I'm going to list down the reasons for AIML but this applies for most if not all specialisation branches.
 
-1. It's an untested branch - most of these branches have been introduced only to increase the number of CS seats in a college because colleges know that these sell well. At the end of the day they're running a business and need to look out for themselves. The first AIML branch is in 3rd semester.
-2. AIML branch replaces a few core fundamental CS courses with AIML related courses. This is an extremely bad and poor decision because a lot of the coursework being replaced is fundamental for a CS grad to know. You might think these are unimportant but without these courses your CS undergraduate degree does not make sense. Additionally, a good portion of the course structure does not make sense. Advanced Data Analytics is offered as an elective but Data Analytics is not taught (it is covered for core CS), Big Data (which uses concepts from OS and CN) is taught *before* these courses. Computer architecture and Microprocessors are combined into a single course, making it a mishmash of 2 courses so they can fit in an extra course. Math for Machine Learning is a weird combination of of Linear Algebra (which itself is a pre-requisite for Math for Machine LEarning) and the original MML course. Basically there seems to be quite a bit of a shitshow to put this branch together.
-3. If you're looking at higher education, then you should know that admission boards abroad do not like specialisation branches because they know that they tend to skip fundamental coursework. Specialisations are treated as baseless because a specialisation in undergrad doesn't make sense. Even for Masters degrees, you will rarely find an AIML degree, most of them are specialisations of CS. Secondly, and by far the most important aspect, admission boards always list down a set of prerequisite courses that are required to be considered for admission. PES is *skipping these topics and replacing with AIML courses*. It will definitely come to affect you later in some way or another. [You can find more details in this comment.](https://www.reddit.com/r/PESU/comments/1d66gzl/comment/l6v07vi/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+1. It's an untested branch - most of these branches have been introduced only to increase the number of CS seats because colleges know that these sell well. They're running a business and need to look out for themselves. The first AIML branch is in 3rd semester.
+2. AIML branch replaces a few core fundamental CS courses with AIML related courses. This is an extremely poor decision because a lot of the coursework being replaced is fundamental for a CS grad. Without these your CS undergraduate degree does not make sense. Additionally, a good portion of the course structure is unorganised. Advanced Data Analytics is offered as an elective but Data Analytics is not taught (it is covered for core CS), Big Data (which uses concepts from OS and CN) is taught *before* these courses. Computer architecture and Microprocessors are combined into a single course, making it a mishmash of 2 courses so they can fit in an extra course. Math for Machine Learning is a weird combination of Linear Algebra (which itself is a pre-requisite for MML) and the original MML course. There seems to be quite a bit of a shitshow to put this branch together.
+3. If you're looking at higher education, then you should know that admission boards abroad do not like specialisation branches because they know that they tend to skip fundamental coursework. Specialisations are baseless because one in undergrad doesn't make sense. Even for Masters degrees, you will rarely find an AIML degree, most of them are specialisations of CS. Secondly, and by far the most important aspect, admission boards always list down a set of prerequisite courses that are required to be considered for admission and your college may not have these to make room for AIML. It will definitely come to affect you later in some way or another. [You can find more details in this comment.](https://www.reddit.com/r/PESU/comments/1d66gzl/comment/l6v07vi/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 4. A lot of people don't know what AIML is and are picking it purely for the hype. AIML is first and foremost, a *mathematical* field. All the development you see out there today with ChatGPT etc are **not** engineering marvels, but rather breakthroughs in mathematical techniques, optimisation algorithms. AIML as a field comprises of calculus, linear algebra, statistics and probability. Almost all courses that are part of the AIML curriculum are entirely math based, in which the papers essentially require you to either derive equations or solve out problems. You will not be "coding" the next AI. If you're into math, you're going to enjoy it, but most people who enter this field with the misconception that there will be programming involved drop their interest right after a week because you're going to doing math from day 1.
 5. Building on the previous point, this field is a heavy research field. People who get into field are interested in research (me being one of them). This field is entirely for academia and those who pursue a research based MS and PhD in this field. If you look at all the jobs that are out there for AIML, you'll realise that they all require an MS degree at the very least because this field requires a lot of fundamental domain knowledge in your every day to day job. The only companies that recruit AIML engineers right out of undergrad are startups. You are 99% going to end up with a job a CS branch graduate will get, but they would have gotten the opportunity to study what they wanted to (explained in below point).
-6. You should not restrict yourself in undergrad. This is the time and place to explore the world of CS and see what's out there. Spend time looking at different things from systems to cybersec and figure out your interests. You may realise that you were never into AIML at all. If you pick core CS, you'll still get to explore and see what's out there and *get to make your choice of electives*. If you pick AIML, you're restricted and the college decides what you will study and which field you will enter. Don't let college take away the beauty of exploring the world of CS. There is honestly so so much more than AIML. Plus, even if you are interested in ML, you can still be in core CS and pick up electives from the AIML branch. So you still get to cover most courses offered in that department.
-7. More details about [prospects of AIML after undergrad](https://www.reddit.com/r/PESU/comments/1drdt4h/comment/lauveid/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button). 
-8. [Here](https://www.reddit.com/r/PESU/comments/1e0kogu/comment/lcnvbpr/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) is another comment with details about why you are better off with core CS.
+6. You should not restrict yourself in undergrad. This is the time and place to explore the world of CS and see what's out there. Spend time looking at different things from systems to cybersec and figure out your interests. You may realise that you were never into AIML at all. If you pick AIML, you're restricted and the college decides. There is honestly so so much more than AIML. Plus, even if you are interested in ML, you can still be in core CS and pick up electives from the AIML branch.
+7. More links:
+   1. [Prospects of AIML after undergrad](https://www.reddit.com/r/PESU/comments/1drdt4h/comment/lauveid/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button).
+   2. [Why core CS is better](https://www.reddit.com/r/PESU/comments/1e0kogu/comment/lcnvbpr/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+   3. [Clearing some misconceptions of CS-AIML](https://www.reddit.com/r/PESU/comments/1e6b648/comment/lds0rlx/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 
 The only reason I would recommend picking CS-AIML is if you only care about having equivalent placements as core CS and did not get it.
+<br><br>
+
+==-
+
+<br>
+
+==- Difference in conferred degree between CS and CS-AIML?
+CS-AIML is a specialised *degree*. Which means your degree name will be CS-AIML. If you choose all electives from CS-AIML from a single specialisation group in your 3rd year, you will be eligible for a specialisation certificate. If I remember correctly, the specialisation groups were healthcare, advanced ML and something else.
+
+Core CS (or just "CS"), is a non-specialised degree. Your degree name will be CS. If you choose all electives from CS from within a single specialisation group, you will be awarded its specialisation certificate. The groups here were cybersecurity, systems and MIDS. Note that MIDS (Machine Intelligence and Data Science) specialisation comprises AIML-related courses like Big Data, NLP, CV, Data Analytics, Graph Theory, IR and so on. Quite a few of these overlap with AIML elective options.
+
+As for the actual difference between the degrees: [CS vs CS-AIML](https://www.reddit.com/r/PESU/comments/147gamv/comment/jnve51g/?utm_source=share&utm_medium=web2x&context=3)
 <br><br>
 
 ==-
@@ -144,6 +174,25 @@ https://pes.edu/transportation-electronic-city-campus/
 
 ==- What are my accommodation options (pros and cons) at EC campus?
 https://www.reddit.com/r/PESU/comments/1d696yh/looking_for_a_roommate_in_ec_campus/
+<br><br>
+
+==-
+
+<br>
+
+==- How to pick between branch and college? Does the reputation or course matter more?
+There was a recent thread on college vs branch a few days ago. I will quote relevant bits of my comments from there. Note that the comparison was with BITS, but just replace it with NIT.
+
+>To summarise, you will have to see which is more important to you. If all you care about is getting the best package and are ok with sacrificing your interests, then BITS. Otherwise, you might be better off at PES.
+
+>Choose BITS if you want that brand name and better salary right out of undergrad, but at the risk of sacrificing your interests. Else study your interests at PES while working hard to create opportunities for yourself so you can match the pay scales by BITSians.
+
+>..you will never get to actually study a program you want to. To me at least, the course is more important than the college and pursuing your interests is very important. The branch sticks with you forever. With hard work, you can cover the distance between a T1 and T2/3 college.
+
+Links to comments:
+
+1. [https://www.reddit.com/r/PESU/comments/1doxx78/comment/lad10qi/](https://www.reddit.com/r/PESU/comments/1doxx78/comment/lad10qi/)
+2. [https://www.reddit.com/r/PESU/comments/1dp6lpf/comment/laequ4m/](https://www.reddit.com/r/PESU/comments/1dp6lpf/comment/laequ4m/)
 <br><br>
 
 ==-
@@ -259,7 +308,7 @@ If the usual session calendars are followed you get roughly 2.5 months in the su
 
 <br>
 
-==- What is the Capstone Project?
+==- [!badge variant="danger" text="Most Asked"] What is the Capstone Project?
 Capstone Project is essentially your final year college project that spans over 6th, 7th and 8th semester. Most projects are research based ones where you pursue some novelty in a field, but there are also a few non research based projects. Capstone totally adds up to 10 credits so it greatly affects your CGPA and cannot be taken lightly and requires genuine work from your end to actually do well in. 
 
 1. 6-8th semesters
@@ -322,6 +371,28 @@ Whatever it is, don't buy a gaming laptop (unless gaming is a priority). They ar
 
 <br>
 
+==- How do I prepare for my first year in CS?
+If you don't have any programming background, the CS50 is a great course to introduce you to the basics. However, IMO you don't actually need such an intro because all CS courses in first year start from absolute basics, assuming you have 0 background in CS. So unless you're a fan of learning different languages (which isn't helpful if you don't know what a language is for), it won't help you too much. Most people I know recommend it only to pick up basic Python/C skills. So the course in itself will be useful for at most first year. Beyond that it kind of loses its purpose. 
+
+On the other hand if you want a course whose topics you'll end up using not only during your 4 years but also mandatorily in the industry, you should pick up the MIT Missing Semester. From its name, it's meant to cover tools and technologies that aren't part of a standard CS curriculum but rather are meant to be used alongside it - shell scripting, using the terminal, version control, etc. These are tools you'll have to pick up yourself as you navigate college but you will end up using every single day at work in the industry, hence the earlier you get proficient with them, the better. It's a fantastic and also pretty small course. A lot of people in the industry also recommend it to freshers who join because of how useful it is.
+<br><br>
+
+==-
+
+<br>
+
+==- How can I explore different fields in CS?
+CS isn't about learning programming languages, it is about solving problems. You should explore different domains, see what they offer, and find the one that interests you. This will help you identify the field you want to get into and what career you want to pursue. 
+
+Check out [https://roadmap.sh/](https://roadmap.sh/) - it contains good roadmaps to follow for different fields. The only way to determine your interest is to eliminate those you aren't interested in. Try the "hello world" equivalent of each field until you can narrow down your interests to 1-2 fields. Once you do that, you can specialise in that by learning more about it. If you face a situation where you are unsure about a field, go beyond the "hello world" equivalent and try the "factorial" equivalent.
+
+Also, I always recommend the [MIT Missing Semester Course](https://missing.csail.mit.edu/) to incoming CS (and anyone trying to land an IT job). Given its name, it's meant to cover various tools/skills that a CS engineer should have. These topics are not covered in any course (like version control, shell scripting, etc) but are a standard requirement when you join the industry and are needed daily at work.
+<br><br>
+
+==-
+
+<br>
+
 ==- What do my 4 years in CSE look like?
 I'd say depends on your branch, but I can answer for CSE
 
@@ -349,6 +420,22 @@ So companies usually don't expect graduates to be specialised in a particular fi
 I'd be happy to talk more about this over DM, but IMO this isn't the time to be discussing these, you have a lot of time to start preparing. For now, stick to maintaining a good CGPA (8.5+), figure out your interests and work towards it and at the same time enjoy your college life. The time for worrying about placements will come later but this time to work on yourself won't come again.
 
 [If you would like more information about how CS placements work, you can read this other answer](https://www.reddit.com/r/PESU/comments/148kf62/comment/jo16nkc/)
+<br><br>
+
+==-
+
+<br>
+
+==- CGPA vs skills, which is more important for placements?
+Short answer: everything. 
+
+Long answer: 
+
+You need a good CGPA to not only be eligible to sit for placements but also to get shortlisted for companies. Companies use various parameters to shortlist applicants - the number of problems solved and CGPA being the two main ones. Depending on the company, they might shortlist candidates with 8+, 8.5+ or even 9+. Regardless, once you get shortlisted, CGPA takes the back seat. 
+
+During the N interview rounds, it depends entirely on your skills (including DSA) and resume. They might ask you tougher DSA questions and ask for pseudo code, or they might ask you how a certain application might use a certain data structure. Or they might ask you about some framework/tool/CS concept they work with and ask you how it works. They might also ask you to explain your projects and then question you on the project. If the job role is well defined, they will ask you questions directly related to that role and test the skills needed to succeed in that role. 
+
+So basically it's not just a good CGPA that's needed but rather a good combination of everything. If you have only a good CGPA, you will either not clear the test or struggle during interviews because you are nothing beyond those digits. On the other hand if you have a top notch set of skills, excellent projects and experiences but have an average CGPA, you will find it difficult to get shortlisted (this happened to me). So the best solution is to ensure you have atleast an 8.5+ because that makes you eligible for almost all companies and also have all the skills needed to ace interviews.
 <br><br>
 
 ==-
