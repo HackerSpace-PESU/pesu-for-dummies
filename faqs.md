@@ -355,16 +355,15 @@ Good luck!
 <br>
 
 ==- Which laptop should I buy for college?
-So I usually don't recommend buying one if you're still in first year, since you can usually do with whatever you already have since the requirements aren't extensive. Plus, waiting a little will also give you time to figure out your interests and help you make a more informed decision on the kind of laptop you need to pursue your interests.
+So I usually don't recommend buying one if you're still in the first year, since you can generally do with whatever you already have since the requirements aren't extensive - you will not be doing anything beyond writing a couple of lines of code and opening PPT/PDFs. Plus, waiting a little will also give you time to figure out your interests and help you decide on the kind of laptop you need to pursue your interests.
 
-Having said that, if you're looking for a generic purpose laptop with an all-rounded use-case, I usually suggest the following specs - 
+Having said that, if you're in CS and looking for a generic purpose laptop with an all-rounded use case, I usually suggest the following specs. Note that if you are looking for a specialised use case like video-editing, gaming, designing, etc - you will have different requirements. If you are looking to get through 4 years of college with a good balance between work and play, usually these are enough:
 
-* Windows laptop so you can dual boot Linux - people have issues running some packages with MacOS. These issues so have workarounds but they're tedious and a hassle. A dual booted Windows runs everything out of the box. 
-* Don't compromise on these - SSD, 16 GB RAM, latest gen processor, lightweight laptop, solid battery backup. Theoretically even RAM can be upgraded but ideally you'd want atleast 16 GB. If not, make sure the model supports an upgrade. 
-* Things that will depend on your preferences - display size, brand, storage capacity. Choose whichever you like. 
-* Optional - an entry level Nvidia GPU. You don't need a powerhouse, an entry level one will do. Although, you can get by without one as well. Don't prioritise this, although if you can get one within your budget, make sure it's an Nvidia only. 
-
-Whatever it is, don't buy a gaming laptop (unless gaming is a priority). They are extremely heavy and a pain to carry around, have terrible battery life, and you won't really make use of the GPU power.
+* Windows laptop so you can dual boot Linux - people have issues running some packages with MacOS. These issues so have workarounds but they're tedious and a hassle. A dual-booted Windows runs everything out of the box. Recently, more people have started opting for MacOS since support has improved, but its still not as smooth sailing as Windows. Besides, a few courses will require Linux anyway, so it helps to start with one.
+* Don't compromise on these - SSD, 16 GB RAM, latest gen processor, lightweight laptop (you will need to carry this to college), solid battery backup. Theoretically, even RAM can be upgraded but ideally, you'd want at least 16 GB. If not, make sure the model supports an upgrade.
+   * DO NOT get a gaming laptop. Although these tend to have all these specs, they compromise a lot on battery backup and portability. Get a gaming laptop ONLY IF you want to game on that machine. Except for gaming, that dedicated GPU is pretty useless. Even if you are in AIML, you will not really end up using a local GPU since free cloud services like Colab/Kaggle offer more than double the GPU power at literally zero cost. That GPU is only necessary if you want to game.
+* Things that will depend on your preferences - display size, brand, and storage capacity. Choose whichever you like.
+* Optional - an entry-level Nvidia GPU. You don't need a powerhouse, an entry-level one will do. Although, you can get by without one as well. Don't prioritise this, although if you can get one within your budget, make sure it's an Nvidia only. This will let you run extremely small ML workloads locally if you wish to (you will probably never encounter this situation) so having any GPU with with \~2GB of memory is good enough.
 <br><br>
 
 ==-
