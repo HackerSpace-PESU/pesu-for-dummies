@@ -132,6 +132,25 @@ As for the actual difference between the degrees: [CS vs CS-AIML](https://www.re
 
 <br>
 
+==- How to pick between branch and college? Does the reputation or course matter more?
+There was a recent thread on college vs branch a few days ago. I will quote relevant bits of my comments from there. Note that the comparison was with BITS, but just replace it with NIT.
+
+>To summarise, you will have to see which is more important to you. If all you care about is getting the best package and are ok with sacrificing your interests, then BITS. Otherwise, you might be better off at PES.
+
+>Choose BITS if you want that brand name and better salary right out of undergrad, but at the risk of sacrificing your interests. Else study your interests at PES while working hard to create opportunities for yourself so you can match the pay scales by BITSians.
+
+>..you will never get to actually study a program you want to. To me at least, the course is more important than the college and pursuing your interests is very important. The branch sticks with you forever. With hard work, you can cover the distance between a T1 and T2/3 college.
+
+Links to comments:
+
+1. [https://www.reddit.com/r/PESU/comments/1doxx78/comment/lad10qi/](https://www.reddit.com/r/PESU/comments/1doxx78/comment/lad10qi/)
+2. [https://www.reddit.com/r/PESU/comments/1dp6lpf/comment/laequ4m/](https://www.reddit.com/r/PESU/comments/1dp6lpf/comment/laequ4m/)
+<br><br>
+
+==-
+
+<br>
+
 ==- How does PESSAT counselling work?
 Regarding which branch you can get with your rank, check the previous year cutoffs. 
 
@@ -156,6 +175,14 @@ The second round of counseling works exactly like the first round, except for a 
 
 <br>
 
+==- What are my accommodation options (pros and cons) at EC campus?
+https://www.reddit.com/r/PESU/comments/1d696yh/looking_for_a_roommate_in_ec_campus/
+<br><br>
+
+==-
+
+<br>
+
 ==- Where can I find information about bus services at RR Campus?
 https://pes.edu/transportation-ring-road/
 <br><br>
@@ -172,27 +199,43 @@ https://pes.edu/transportation-electronic-city-campus/
 
 <br>
 
-==- What are my accommodation options (pros and cons) at EC campus?
-https://www.reddit.com/r/PESU/comments/1d696yh/looking_for_a_roommate_in_ec_campus/
+==- [!badge variant="danger" text="Most Asked"] What are the do's and don't's as an incoming Freshman?
+I would not suggest having a "blueprint" for college because this is a new chapter in your life meant to be experienced first-hand. You will falter and make mistakes but that's ok. But here are a couple of do's and don't's:
+
+(This comment is broken down into multiple threads)
+
+**Do's:**
+
+* **CGPA is important**. Don't let anyone tell you otherwise. Whether your goal is placements or Masters, a high CGPA opens doors to opportunities. Your first year's CGPA forms the backbone of the CGPA you get in later years, so if you screw up in the first year, it can take a while to recover from the damage. Many shortlisting situations directly use your GPA, so the higher the better.
+* **CGPA is not everything!** While important, the "higher the better" policy only applies to a certain extent. Beyond that, all CGPAs are treated the same. College isn't about going to classes, studying and achieving the highest CGPA (more on this later), so don't waste your time grinding for the golden 10/10 because it might hurt you more than it can help.
+* **Become industry-ready**. Gone are the days when a BTech would guarantee you a job. College is about picking up valuable skills relevant to the industry and showcasing them during placements. If you do not have the necessary skills to work in a role and/or if you spend all your time grinding a high CGPA but do not have the technical proficiency to succeed in a corporate role, you will not be selected. So don't make CGPA everything and focus on developing these skills. Your goal should be to be hireable, not to get a degree.
+* **Explore, explore and explore!** This is more relevant to CS, but you need to explore this vast field and figure out your interests. CS is NOT programming - it is so much more. There are various fields from theoretical CS, systems, cloud, etc and so on. Explore different fields, see what they have to offer and find your niche. At the end of the day, you do want to pursue a career in what you are interested in. Once you find your interest, keep learning more it has to offer. Work on relevant projects, pick up experiences, etc until your profile is relevant/aligned towards a field. This will specialise your profile (something which most undergrads do not have) and allow you to apply for specific roles in the industry, help you become more noticeable to recruiters and also help your resume clear multiple screening rounds easily.
+* **Opportunities are plenty!** There are many opportunities at PES and outside, if you keep your eyes and ears open. Try your hand at everything - be it research internships or industry internships. You will not be able to find out your interests until you try your hand at everything. Keep an eye out for openings, internship announcements, etc (an easy way is to ask seniors - more on this below) so when something opens up, you are the first to apply! Keep looking for any kind of opportunity that might be relevant to your interests and keep applying, regardless of your chances. You never know what might click.
+* **Maintain a professional profile**. Always keep an updated resume (I used to update mine every 2 months, or if any major update is needed) and an updated LinkedIn. You will need these to apply and look for opportunities. Keeping an updated profile at all times makes it less tedious and much quicker. Building one also helps recruiters find you for relevant openings. It also helps you network and find alumni who can help you out! If you need help building a profile, reach out to seniors - they have resources to help you out. Since this is needed for internships, jobs and Masters, its important to get a head start here.
+* **Make a good peer group**. Having a good peer group which encourages you to do your best and vibes with you is ideal. Find your tribe and people you can get along with and it will make college life significantly better. Don't be an isolated dude on campus. Friends will keep you sane.
+* **Stay connected!** Its already been repeated a few times, but all communities/groups/clubs etc at PES actively use discord. There are discord servers for notes, alumni groups, MS admissions etc. Each club also actively manages their events through Discord. While its known that most students have not used discord, getting used to it early and staying connected makes life much easier later. If you need to find anything at PESU, PESU Discord will help you find it.
+* **Look after your physical and mental health!** PES can get very stressful, rigorous, competitive, hectic, etc. You have already heard this before. Keeping a check on your health from time to time is important. Sometimes, you might not be able to perform as well as you want to in a test, and that's ok. Learn where to draw the boundary and don't put in effort beyond what you are comfortable with. If you are satisfied with an 8.5, make sure you put in enough effort for an 8.5. Don't compare with others - only with your past self. Eat healthy, pick up a regular physical exercise and do these alongside work. Talk to people for support and share your feelings. Don't let the stress get to your head. Mental health matters, and you will need to take precautionary steps to take care of yourself at PES. Your health is more important than a GPA.
+
+(continued in a reply)
 <br><br>
 
 ==-
 
 <br>
 
-==- How to pick between branch and college? Does the reputation or course matter more?
-There was a recent thread on college vs branch a few days ago. I will quote relevant bits of my comments from there. Note that the comparison was with BITS, but just replace it with NIT.
+==- What is bootstrap?
+Bootstrap is a 5 day program where you guys are divided into 5 groups. These groups are usually named red, blue, etc. 
 
->To summarise, you will have to see which is more important to you. If all you care about is getting the best package and are ok with sacrificing your interests, then BITS. Otherwise, you might be better off at PES.
+Each group has one theme per day. The themes are mechanical, design thinking, community service etc. 
 
->Choose BITS if you want that brand name and better salary right out of undergrad, but at the risk of sacrificing your interests. Else study your interests at PES while working hard to create opportunities for yourself so you can match the pay scales by BITSians.
+During design thinking, you have a hackathon style event  
+During mechanical, you get a presentation about the latest advancements (boring shit) and then move on to the interesting stuff (The Aero design club, Avions; the go kart club vegavath) etc. 
 
->..you will never get to actually study a program you want to. To me at least, the course is more important than the college and pursuing your interests is very important. The branch sticks with you forever. With hard work, you can cover the distance between a T1 and T2/3 college.
+You also have electrical, electronics etc. 
 
-Links to comments:
+On the community service day, you usually go to a school to paint their walls or some other sort of community service like that. 
 
-1. [https://www.reddit.com/r/PESU/comments/1doxx78/comment/lad10qi/](https://www.reddit.com/r/PESU/comments/1doxx78/comment/lad10qi/)
-2. [https://www.reddit.com/r/PESU/comments/1dp6lpf/comment/laequ4m/](https://www.reddit.com/r/PESU/comments/1dp6lpf/comment/laequ4m/)
+It's a really fun thing that takes place during the first week of your first year. It gives a glimpse of all the departments and clubs in the university
 <br><br>
 
 ==-
@@ -308,7 +351,7 @@ If the usual session calendars are followed you get roughly 2.5 months in the su
 
 <br>
 
-==- [!badge variant="danger" text="Most Asked"] What is the Capstone Project?
+==- What is the Capstone Project?
 Capstone Project is essentially your final year college project that spans over 6th, 7th and 8th semester. Most projects are research based ones where you pursue some novelty in a field, but there are also a few non research based projects. Capstone totally adds up to 10 credits so it greatly affects your CGPA and cannot be taken lightly and requires genuine work from your end to actually do well in. 
 
 1. 6-8th semesters
