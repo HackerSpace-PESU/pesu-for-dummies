@@ -351,7 +351,7 @@ If the usual session calendars are followed you get roughly 2.5 months in the su
 
 <br>
 
-==- [!badge variant="danger" text="Most Asked"] What is the Capstone Project?
+==- What is the Capstone Project?
 Capstone Project is essentially your final year college project that spans over 6th, 7th and 8th semester. Most projects are research based ones where you pursue some novelty in a field, but there are also a few non research based projects. Capstone totally adds up to 10 credits so it greatly affects your CGPA and cannot be taken lightly and requires genuine work from your end to actually do well in. 
 
 1. 6-8th semesters
@@ -407,6 +407,7 @@ Having said that, if you're in CS and looking for a generic purpose laptop with 
    * DO NOT get a gaming laptop. Although these tend to have all these specs, they compromise a lot on battery backup and portability. Get a gaming laptop ONLY IF you want to game on that machine. Except for gaming, that dedicated GPU is pretty useless. Even if you are in AIML, you will not really end up using a local GPU since free cloud services like Colab/Kaggle offer more than double the GPU power at literally zero cost. That GPU is only necessary if you want to game.
 * Things that will depend on your preferences - display size, brand, and storage capacity. Choose whichever you like.
 * Optional - an entry-level Nvidia GPU. You don't need a powerhouse, an entry-level one will do. Although, you can get by without one as well. Don't prioritise this, although if you can get one within your budget, make sure it's an Nvidia only. This will let you run extremely small ML workloads locally if you wish to (you will probably never encounter this situation) so having any GPU with with \~2GB of memory is good enough.
+* You can find an in-depth engineering laptop shopping guide [here](https://www.canva.com/design/DAFmz_SDea0/C35otbB59HZGS3p7XJsajQ/view?utm_content=DAFmz_SDea0&utm_campaign=designshare&utm_medium=link&utm_source=editor).
 <br><br>
 
 ==-
