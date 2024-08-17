@@ -99,7 +99,7 @@ If you join EEE with the intention of getting CSE in the second year I would sug
 
 <br>
 
-==- Should I pick CS+AIML or CSE?
+==- [!badge variant="danger" text="Most Asked"] Should I pick CS+AIML or CSE?
 There are *multiple* reasons to **not** choose the AIML branch at PES or any other college. I'm going to list down the reasons for AIML but this applies for most if not all specialisation branches.
 
 1. It's an untested branch - most of these branches have been introduced only to increase the number of CS seats because colleges know that these sell well. They're running a business and need to look out for themselves. The first AIML branch is in 3rd semester.
