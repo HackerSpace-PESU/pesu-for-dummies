@@ -199,7 +199,7 @@ https://pes.edu/transportation-electronic-city-campus/
 
 <br>
 
-==- What are the do's and don't's as an incoming Freshman?
+==- [!badge variant="danger" text="Most Asked"] What are the do's and don't's as an incoming Freshman?
 I would not suggest having a "blueprint" for college because this is a new chapter in your life meant to be experienced first-hand. You will falter and make mistakes but that's ok. But here are a couple of do's and don't's:
 
 (This comment is broken down into multiple threads)
