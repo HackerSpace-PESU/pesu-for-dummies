@@ -199,7 +199,7 @@ https://pes.edu/transportation-electronic-city-campus/
 
 <br>
 
-==- [!badge variant="danger" text="Most Asked"] What are the do's and don't's as an incoming Freshman?
+==- What are the do's and don't's as an incoming Freshman?
 I would not suggest having a "blueprint" for college because this is a new chapter in your life meant to be experienced first-hand. You will falter and make mistakes but that's ok. But here are a couple of do's and don't's:
 
 (This comment is broken down into multiple threads)
@@ -351,7 +351,7 @@ If the usual session calendars are followed you get roughly 2.5 months in the su
 
 <br>
 
-==- [!badge variant="danger" text="Most Asked"] What is the Capstone Project?
+==- What is the Capstone Project?
 Capstone Project is essentially your final year college project that spans over 6th, 7th and 8th semester. Most projects are research based ones where you pursue some novelty in a field, but there are also a few non research based projects. Capstone totally adds up to 10 credits so it greatly affects your CGPA and cannot be taken lightly and requires genuine work from your end to actually do well in. 
 
 1. 6-8th semesters
@@ -451,7 +451,7 @@ If you are looking at an 8 at the end of first year, you will probably end up be
 
 <br>
 
-==- How do I prepare for CS placements?
+==- [!badge variant="danger" text="Most Asked"] How do I prepare for CS placements?
 Firstly, you're barely in 2nd sem - now's not the time to be worrying about placements. Time doesn't fly that quickly either.
 
 Secondly, this is a long answer, but the summary is that it is different for different people. It's nice to read that you've started web dev and Android, but you shouldn't be doing these with the intention of getting placed. If you're doing that then you're really not going to make much progress. Instead, you should *find the field(s) that interest you the most and dive deeper into those*. This finding takes a lot of time - some people know it before they enter college (like me), while some take all the way up till 7th semester. There is no shame in either and you should know that it takes a lot of experimentation and getting your hands dirty to figure out ones interests.
