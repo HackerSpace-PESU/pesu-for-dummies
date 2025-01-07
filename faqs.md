@@ -414,6 +414,14 @@ Having said that, if you're in CS and looking for a generic purpose laptop with 
 
 <br>
 
+==- Withdraw vs Dropping of courses?
+https://www.reddit.com/r/PESU/s/A4EHGa12Jc
+<br><br>
+
+==-
+
+<br>
+
 ==- How do I prepare for my first year in CS?
 If you don't have any programming background, the CS50 is a great course to introduce you to the basics. However, IMO you don't actually need such an intro because all CS courses in first year start from absolute basics, assuming you have 0 background in CS. So unless you're a fan of learning different languages (which isn't helpful if you don't know what a language is for), it won't help you too much. Most people I know recommend it only to pick up basic Python/C skills. So the course in itself will be useful for at most first year. Beyond that it kind of loses its purpose. 
 
