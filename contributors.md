@@ -30,12 +30,12 @@ Found some mistakes in the pages, or want to contribute your own content to this
 <br><br>
 
 ## Contributors
-<a href="https://github.com/silicoflare">
-    <img src="https://avatars.githubusercontent.com/u/100959814?v=4" alt="GitHub Avatar" width="50" height="50" style="border-radius: 50%">
-</a>&emsp;
-
 <a href="https://github.com/aditeyabaral">
     <img src="https://avatars.githubusercontent.com/u/33230959?v=4" alt="GitHub Avatar" width="50" height="50" style="border-radius: 50%">
+</a>&emsp;
+
+<a href="https://github.com/silicoflare">
+    <img src="https://avatars.githubusercontent.com/u/100959814?v=4" alt="GitHub Avatar" width="50" height="50" style="border-radius: 50%">
 </a>&emsp;
 
 <a href="https://github.com/Icarus131">
