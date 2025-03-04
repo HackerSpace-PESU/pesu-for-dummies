@@ -34,9 +34,9 @@ FAQ_TEMPLATE = """---
 order: -9
 ---
 
-# FAQs (feat. Rowlet Owl)
+# FAQs
 
-These FAQs have been directly sourced from the [r/PESU subreddit](https://www.reddit.com/r/PESU/comments/14c1iym/faqs/). 
+These FAQs have been directly sourced from the [r/PESU](https://www.reddit.com/r/PESU/comments/14c1iym/faqs/) subreddit. 
 If you would like to add a question or make suggestions, please contact [u/rowlet-owl](https://www.reddit.com/user/rowlet-owl/).
 
 """
