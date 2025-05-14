@@ -99,7 +99,7 @@ If you join EEE with the intention of getting CSE in the second year I would sug
 
 <br>
 
-==- Should I pick CS+AIML or CSE?
+==- [!badge variant="danger" text="Most Asked"] Should I pick CS+AIML or CSE?
 There are *multiple* reasons to **not** choose the AIML branch at PES or any other college. I'm going to list down the reasons for AIML but this applies for most if not all specialisation branches.
 
 1. It's an untested branch - most of these branches have been introduced only to increase the number of CS seats because colleges know that these sell well. They're running a business and need to look out for themselves. The first AIML branch is in 3rd semester.
@@ -199,7 +199,7 @@ https://pes.edu/transportation-electronic-city-campus/
 
 <br>
 
-==- [!badge variant="danger" text="Most Asked"] What are the do's and don't's as an incoming Freshman?
+==- What are the do's and don't's as an incoming Freshman?
 I would not suggest having a "blueprint" for college because this is a new chapter in your life meant to be experienced first-hand. You will falter and make mistakes but that's ok. But here are a couple of do's and don't's:
 
 (This comment is broken down into multiple threads)
