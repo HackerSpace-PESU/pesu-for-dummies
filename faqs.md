@@ -493,8 +493,16 @@ So basically it's not just a good CGPA that's needed but rather a good combinati
 
 <br>
 
-==- How is ECE at PESU?
+==- How is ECE at RR Campus?
 https://www.reddit.com/r/PESU/comments/1cyvucb/the_pros_and_cons_of_pes_university_of_ece_at_rr/
+<br><br>
+
+==-
+
+<br>
+
+==- How is ECE at EC Campus?
+https://www.reddit.com/r/PESU/comments/1kvxk0k/how_ece_is_at_ecity_campus_a_starter_guide/
 <br><br>
 
 ==-
