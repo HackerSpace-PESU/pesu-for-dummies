@@ -111,7 +111,8 @@ There are *multiple* reasons to **not** choose the AIML branch at PES or any oth
 7. More links:
    1. [Prospects of AIML after undergrad](https://www.reddit.com/r/PESU/comments/1drdt4h/comment/lauveid/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button).
    2. [Why core CS is better](https://www.reddit.com/r/PESU/comments/1e0kogu/comment/lcnvbpr/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
-   3. [Clearing some misconceptions of CS-AIML](https://www.reddit.com/r/PESU/comments/1e6b648/comment/lds0rlx/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+   3. [Why core CS is preferred over CS-derivative branches in the industry (this is written from a Masters POV but points stand for Bachelors too)](https://www.linkedin.com/pulse/10-years-silicon-valley-hiring-my-honest-take-masters-nirmal-thacker-e3iwc/)
+   4. [Clearing some misconceptions of CS-AIML](https://www.reddit.com/r/PESU/comments/1e6b648/comment/lds0rlx/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 
 The only reason I would recommend picking CS-AIML is if you only care about having equivalent placements as core CS and did not get it.
 <br><br>
