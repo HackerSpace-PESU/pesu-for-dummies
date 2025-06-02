@@ -176,6 +176,14 @@ The second round of counseling works exactly like the first round, except for a 
 
 <br>
 
+==- Where can I find the placement statistics?
+https://www.reddit.com/r/PESU/comments/1l16bng/placement_statistics_compilation_2022_to_present/
+<br><br>
+
+==-
+
+<br>
+
 ==- What are my accommodation options (pros and cons) at EC campus?
 https://www.reddit.com/r/PESU/comments/1d696yh/looking_for_a_roommate_in_ec_campus/
 <br><br>
