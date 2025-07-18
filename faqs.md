@@ -564,3 +564,11 @@ If you're giving the entrance tests you are strictly looking for CS placements, 
 
 <br>
 
+==- Tips for ECE
+https://www.reddit.com/r/PESU/comments/1m09h7z/resource_tips_for_ece_students/
+<br><br>
+
+==-
+
+<br>
+
